@@ -6,16 +6,19 @@ A list of policies by different open source projects about how to engage with AI
 
 ## Policies
 
-- [Matplotlib](matplotlib.org): [Restrictions on Generative AI Usage](https://matplotlib.org/devdocs/devel/contribute.html#generative-ai)
-- [napari](napari.org): [AI use policy and guidelines](https://napari.org/dev/developers/contributing/ai.html)
-- [SciPy](scipy.org): [AI Policy](https://scipy.github.io/devdocs/dev/conduct/ai_policy.html)
-- [Pandas](pandas.pydata.org): [Automated contributions policy](https://pandas.pydata.org/docs/dev/development/contributing.html#automated-contributions-policy)
-- [LLVM](llvm.org): [LLVM AI Tool Use Policy](https://llvm.org/docs//AIToolPolicy.html)
+- [Matplotlib](https://matplotlib.org): [Restrictions on Generative AI Usage](https://matplotlib.org/devdocs/devel/contribute.html#generative-ai)
+- [napari](https://napari.org): [AI use policy and guidelines](https://napari.org/dev/developers/contributing/ai.html)
+- [SciPy](https://scipy.org): [AI Policy](https://scipy.github.io/devdocs/dev/conduct/ai_policy.html)
+- [Pandas](https://pandas.pydata.org): [Automated contributions policy](https://pandas.pydata.org/docs/dev/development/contributing.html#automated-contributions-policy)
+- [LLVM](https://llvm.org): [LLVM AI Tool Use Policy](https://llvm.org/docs//AIToolPolicy.html)
 - [Zulip](https://zulip.com/): [AI use policy and guidelines](https://github.com/zulip/zulip/blob/main/CONTRIBUTING.md#ai-use-policy-and-guidelines)
 - [Arrow](https://arrow.apache.org): [AI-generated code](https://arrow.apache.org/docs/dev/developers/overview.html#ai-generated-code)
 - [FastAPI](https://fastapi.tiangolo.com): [Automated Code and AI](https://fastapi.tiangolo.com/contributing/#automated-code-and-ai)
 - [Jellyfin](https://jellyfin.org/): [Jellyfin LLM/"AI" Development Policy](https://jellyfin.org/docs/general/contributing/llm-policies/)
-- [scikit-learn](scikit-learn.org): [Automated Contributions Policy](https://scikit-learn.org/dev/developers/contributing.html#automated-contributions-policy)
+- [scikit-learn](https://scikit-learn.org): [Automated Contributions Policy](https://scikit-learn.org/dev/developers/contributing.html#automated-contributions-policy)
+- [CPython](https://github.com/python/cpython): [Generative AI policy](https://devguide.python.org/getting-started/generative-ai/)
+- [Django](https://www.djangoproject.com/): [Security Policy > AI-Assisted Reports](https://docs.djangoproject.com/en/dev/internals/security/#ai-assisted-reports), [PR template](https://github.com/django/django/blob/main/.github/pull_request_template.md)
+- [Ghostty](https://ghostty.org/): [AI Usage Policy](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)
 
 ## Ongoing discussions
 
