@@ -16,6 +16,10 @@ A list of policies by different open source projects about how to engage with AI
 - [FastAPI](https://fastapi.tiangolo.com): [Automated Code and AI](https://fastapi.tiangolo.com/contributing/#automated-code-and-ai)
 - [Jellyfin](https://jellyfin.org/): [Jellyfin LLM/"AI" Development Policy](https://jellyfin.org/docs/general/contributing/llm-policies/)
 - [scikit-learn](scikit-learn.org): [Automated Contributions Policy](https://scikit-learn.org/dev/developers/contributing.html#automated-contributions-policy)
+- [Gentoo Linux](https://www.gentoo.org/): [AI Policy](https://wiki.gentoo.org/wiki/Project:Council/AI_policy)
+- [Python Developer's Guide](https://devguide.python.org): [page on Generative AI](https://devguide.python.org/getting-started/generative-ai/)
+- [SymPy](https://www.sympy.org): [AI Generated Code and Communication Policy](https://docs.sympy.org/dev/contributing/ai-generated-code-policy.html)
+- [Polars](https://pola.rs/): [AI Usage Policy](https://github.com/pola-rs/polars/blob/8425c750b9c5d28c79428998fda2320d076d4178/AI_POLICY.md)
 
 ## Ongoing discussions
 
