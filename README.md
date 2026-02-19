@@ -26,6 +26,7 @@ A list of policies by different open source projects about how to engage with AI
 - [Apache Kvrocks](https://kvrocks.apache.org/): [Guidelines for AI-assisted Contributions](https://kvrocks.apache.org/community/contributing/#guidelines-for-ai-assisted-contributions)
 - [Apache® Software Foundation (ASF)](https://www.apache.org/): [ASF Generative Tooling Guidance](https://www.apache.org/legal/generative-tooling.html)
 - [IREE (Intermediate Representation Execution Environment)](https://iree.dev/): [AI tool use](https://iree.dev/developers/general/contributing/#ai-tool-use)
+- [OCaml]: [Guidelines relevant to AI-assisted contributions](https://github.com/ocaml/ocaml/blob/trunk/AI.md)
 
 ### Projects severely restricting AI contributions
 
