@@ -5,6 +5,7 @@ A list of policies by different open source projects about how to engage with AI
 **Feel free to submit Pull Requests with policies you find in other projects!**
 
 ## Policies
+### Projects accepting AI-assisted contributions
 
 - [Matplotlib](https://matplotlib.org): [Restrictions on Generative AI Usage](https://matplotlib.org/devdocs/devel/contribute.html#generative-ai)
 - [napari](https://napari.org): [AI use policy and guidelines](https://napari.org/dev/developers/contributing/ai.html)
@@ -15,19 +16,25 @@ A list of policies by different open source projects about how to engage with AI
 - [Arrow](https://arrow.apache.org): [AI-generated code](https://arrow.apache.org/docs/dev/developers/overview.html#ai-generated-code)
 - [FastAPI](https://fastapi.tiangolo.com): [Automated Code and AI](https://fastapi.tiangolo.com/contributing/#automated-code-and-ai)
 - [Jellyfin](https://jellyfin.org/): [Jellyfin LLM/"AI" Development Policy](https://jellyfin.org/docs/general/contributing/llm-policies/)
-- [Gentoo Linux](https://www.gentoo.org/): [AI Policy](https://wiki.gentoo.org/wiki/Project:Council/AI_policy)
 - [SymPy](https://www.sympy.org): [AI Generated Code and Communication Policy](https://docs.sympy.org/dev/contributing/ai-generated-code-policy.html)
 - [Polars](https://pola.rs/): [AI Usage Policy](https://github.com/pola-rs/polars/blob/8425c750b9c5d28c79428998fda2320d076d4178/AI_POLICY.md)
 - [scikit-learn](https://scikit-learn.org): [Automated Contributions Policy](https://scikit-learn.org/dev/developers/contributing.html#automated-contributions-policy)
 - [CPython](https://github.com/python/cpython): [Generative AI policy](https://devguide.python.org/getting-started/generative-ai/)
 - [Django](https://www.djangoproject.com/): [Security Policy > AI-Assisted Reports](https://docs.djangoproject.com/en/dev/internals/security/#ai-assisted-reports), [PR template](https://github.com/django/django/blob/main/.github/pull_request_template.md)
 - [Ghostty](https://ghostty.org/): [AI Usage Policy](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)
-- [Linux man-pages](): [AI - artificial intelligence policy](https://git.kernel.org/pub/scm/docs/man-pages/man-pages.git/tree/CONTRIBUTING.d/ai)
-- [NetBSD](https://www.netbsd.org/): [NetBSD Commit Guidelines](https://www.netbsd.org/developers/commit-guidelines.html)
 - [Apache DataFusion](https://datafusion.apache.org): [AI-Assisted contributions](https://datafusion.apache.org/contributor-guide/index.html#ai-assisted-contributions)
 - [Apache Kvrocks](https://kvrocks.apache.org/): [Guidelines for AI-assisted Contributions](https://kvrocks.apache.org/community/contributing/#guidelines-for-ai-assisted-contributions)
 - [Apache® Software Foundation (ASF)](https://www.apache.org/): [ASF Generative Tooling Guidance](https://www.apache.org/legal/generative-tooling.html)
 - [IREE (Intermediate Representation Execution Environment)](https://iree.dev/): [AI tool use](https://iree.dev/developers/general/contributing/#ai-tool-use)
+
+### Projects severely restricting AI contributions
+
+- [NetBSD](https://www.netbsd.org/): [NetBSD Commit Guidelines](https://www.netbsd.org/developers/commit-guidelines.html) require explicit core approval for every contribution
+
+### Projects rejecting AI contributions
+
+- [Gentoo Linux](https://www.gentoo.org/): [AI Policy](https://wiki.gentoo.org/wiki/Project:Council/AI_policy)
+- [Linux man-pages](): [AI - artificial intelligence policy](https://git.kernel.org/pub/scm/docs/man-pages/man-pages.git/tree/CONTRIBUTING.d/ai)
 
 ## Ongoing discussions
 
