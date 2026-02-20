@@ -28,6 +28,7 @@ A list of policies by different open source projects about how to engage with AI
 - [IREE (Intermediate Representation Execution Environment)](https://iree.dev/): [AI tool use](https://iree.dev/developers/general/contributing/#ai-tool-use)
 - [MicroPython](https://micropython.org): [Generative AI Policy](https://github.com/micropython/micropython/wiki/ContributorGuidelines#generative-ai-policy)
 - [OCaml](https://github.com/ocaml/ocaml): [Guidelines relevant to AI-assisted contributions](https://github.com/ocaml/ocaml/blob/trunk/AI.md)
+- [CloudNativePG](https://cloudnative-pg.io/): [AI Policy](https://github.com/cloudnative-pg/governance/blob/main/AI_POLICY.md)
 
 ### Projects severely restricting AI contributions
 
