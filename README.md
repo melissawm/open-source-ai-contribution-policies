@@ -33,6 +33,7 @@ A list of policies by different open source projects about how to engage with AI
 - [Firefox](https://github.com/mozilla-firefox/firefox): [Firefox AI Coding Policy
 ](https://firefox-source-docs.mozilla.org/contributing/ai-coding.html)
 - [Kornia](https://github.com/kornia/kornia/tree/main) : [AI_POLICY.md](https://github.com/kornia/kornia/blob/main/AI_POLICY.md)
+- [PyVista](https://pyvista.org): [Generative AI](https://github.com/pyvista/pyvista/blob/main/CONTRIBUTING.rst#generative-ai)
 
 ### Projects severely restricting AI contributions
 
