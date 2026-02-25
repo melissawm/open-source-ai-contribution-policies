@@ -30,9 +30,8 @@ A list of policies by different open source projects about how to engage with AI
 - [OCaml](https://github.com/ocaml/ocaml): [Guidelines relevant to AI-assisted contributions](https://github.com/ocaml/ocaml/blob/trunk/AI.md)
 - [CloudNativePG](https://cloudnative-pg.io/): [AI Policy](https://github.com/cloudnative-pg/governance/blob/main/AI_POLICY.md)
 - [Homebrew](https://github.com/Homebrew/brew/tree/main): [(AI/LLM) usage](https://github.com/Homebrew/brew/blob/main/CONTRIBUTING.md#artificial-intelligencelarge-language-model-aillm-usage)
-- [Firefox](https://github.com/mozilla-firefox/firefox): [Firefox AI Coding Policy
-](https://firefox-source-docs.mozilla.org/contributing/ai-coding.html)
-- [Kornia](https://github.com/kornia/kornia/tree/main) : [AI_POLICY.md](https://github.com/kornia/kornia/blob/main/AI_POLICY.md)
+- [Firefox](https://github.com/mozilla-firefox/firefox): [Firefox AI Coding Policy](https://firefox-source-docs.mozilla.org/contributing/ai-coding.html)
+- [Kornia](https://github.com/kornia/kornia/tree/main): [AI_POLICY.md](https://github.com/kornia/kornia/blob/main/AI_POLICY.md)
 
 ### Projects severely restricting AI contributions
 
