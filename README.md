@@ -64,6 +64,7 @@ A list of policies by different open source projects about how to engage with AI
 - [llama.cpp AGENTS.md file](https://github.com/ggml-org/llama.cpp/blob/master/AGENTS.md#instructions-for-llamacpp)
 - [Pi (AI agent toolkit) – AGENTS.md file](https://github.com/badlogic/pi-mono/blob/4ba3e5be229a570187d8efbef5c14c0d5ce40dcc/AGENTS.md)
 - [The "Vouch" system for managing trust in contributions](https://github.com/mitchellh/vouch)
+- [Good Egg: Trust scoring for GitHub PR authors](https://github.com/2ndSetAI/good-egg)
 
 ## Acknowledgements
 
