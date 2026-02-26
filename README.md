@@ -48,7 +48,7 @@ A list of policies by different open source projects about how to engage with AI
 - [Gentoo Linux](https://www.gentoo.org/): [AI Policy](https://wiki.gentoo.org/wiki/Project:Council/AI_policy)
 - [Linux man-pages](): [AI - artificial intelligence policy](https://git.kernel.org/pub/scm/docs/man-pages/man-pages.git/tree/CONTRIBUTING.d/ai)
 - [GoToSocial](https://gotosocial.org/): [Code of Conduct](https://codeberg.org/superseriousbusiness/gotosocial/src/branch/main/CODE_OF_CONDUCT.md)
-
+- [postmarketOS](https://postmarketos.org): [AI Policy](https://docs.postmarketos.org/policies-and-processes/development/ai-policy.html)
 
 ## Ongoing discussions
 
