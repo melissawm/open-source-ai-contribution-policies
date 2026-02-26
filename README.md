@@ -30,9 +30,10 @@ A list of policies by different open source projects about how to engage with AI
 - [OCaml](https://github.com/ocaml/ocaml): [Guidelines relevant to AI-assisted contributions](https://github.com/ocaml/ocaml/blob/trunk/AI.md)
 - [CloudNativePG](https://cloudnative-pg.io/): [AI Policy](https://github.com/cloudnative-pg/governance/blob/main/AI_POLICY.md)
 - [Homebrew](https://github.com/Homebrew/brew/tree/main): [(AI/LLM) usage](https://github.com/Homebrew/brew/blob/main/CONTRIBUTING.md#artificial-intelligencelarge-language-model-aillm-usage)
-- [Firefox](https://github.com/mozilla-firefox/firefox): [Firefox AI Coding Policy
-](https://firefox-source-docs.mozilla.org/contributing/ai-coding.html)
-- [Kornia](https://github.com/kornia/kornia/tree/main) : [AI_POLICY.md](https://github.com/kornia/kornia/blob/main/AI_POLICY.md)
+- [Firefox](https://github.com/mozilla-firefox/firefox): [Firefox AI Coding Policy](https://firefox-source-docs.mozilla.org/contributing/ai-coding.html)
+- [Kornia](https://github.com/kornia/kornia/tree/main): [AI_POLICY.md](https://github.com/kornia/kornia/blob/main/AI_POLICY.md)
+- [LinkML](https://linkml.io/): [AI Covenant](https://github.com/linkml/linkml/blob/main/AI_COVENANT.md)
+- [DataJourneyHQ](https://datajourneyhq.com/) : [AI aware checklist](https://github.com/DataJourneyHQ/DataJourney/wiki/Contribution-Guidelines-(AI%E2%80%90Aware))
 - [curl](https://curl.se/): [On AI Use in CURL](https://curl.se/dev/contribute.html#on-ai-use-in-curl)
 
 ### Projects severely restricting AI contributions
@@ -65,6 +66,7 @@ A list of policies by different open source projects about how to engage with AI
 - [llama.cpp AGENTS.md file](https://github.com/ggml-org/llama.cpp/blob/master/AGENTS.md#instructions-for-llamacpp)
 - [Pi (AI agent toolkit) – AGENTS.md file](https://github.com/badlogic/pi-mono/blob/4ba3e5be229a570187d8efbef5c14c0d5ce40dcc/AGENTS.md)
 - [The "Vouch" system for managing trust in contributions](https://github.com/mitchellh/vouch)
+- [Good Egg: Trust scoring for GitHub PR authors](https://github.com/2ndSetAI/good-egg)
 
 ## Acknowledgements
 
