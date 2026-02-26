@@ -30,6 +30,7 @@ A list of policies by different open source projects about how to engage with AI
 - [MicroPython](https://micropython.org): [Generative AI Policy](https://github.com/micropython/micropython/wiki/ContributorGuidelines#generative-ai-policy)
 - [napari](https://napari.org): [AI use policy and guidelines](https://napari.org/dev/developers/contributing/ai.html)
 - [OCaml](https://github.com/ocaml/ocaml): [Guidelines relevant to AI-assisted contributions](https://github.com/ocaml/ocaml/blob/trunk/AI.md)
+- [Oxide](https://oxide.computer/): [Using LLMs at Oxide](https://rfd.shared.oxide.computer/rfd/0576)
 - [Pandas](https://pandas.pydata.org): [Automated contributions policy](https://pandas.pydata.org/docs/dev/development/contributing.html#automated-contributions-policy)
 - [Polars](https://pola.rs/): [AI Usage Policy](https://github.com/pola-rs/polars/blob/8425c750b9c5d28c79428998fda2320d076d4178/AI_POLICY.md)
 - [Processing/p5.js](https://processing.org/): [AI Usage Policy](https://github.com/processing/processing4/blob/main/AI_USAGE_POLICY.md)
@@ -50,10 +51,12 @@ A list of policies by different open source projects about how to engage with AI
 - [GoToSocial](https://gotosocial.org/): [Code of Conduct](https://codeberg.org/superseriousbusiness/gotosocial/src/branch/main/CODE_OF_CONDUCT.md)
 - [Linux man-pages](): [AI - artificial intelligence policy](https://git.kernel.org/pub/scm/docs/man-pages/man-pages.git/tree/CONTRIBUTING.d/ai)
 - [postmarketOS](https://postmarketos.org): [AI Policy](https://docs.postmarketos.org/policies-and-processes/development/ai-policy.html)
+- [QEMU](https://www.qemu.org): [Use of AI-generated content](https://www.qemu.org/docs/master/devel/code-provenance.html#use-of-ai-generated-content)
 
 ## Ongoing discussions
 
 - [Fedora Council Policy Proposal: Policy on AI-Assisted Contributions](https://communityblog.fedoraproject.org/council-policy-proposal-policy-on-ai-assisted-contributions/)
+- [Jupyter](): [AI-assisted code policy: "Literature Review"](https://github.com/jupyter/governance/issues/326)
 - [musl-libc](https://musl.libc.org/): [Tentative policy](https://www.openwall.com/lists/musl/2024/10/19/3)
 - [NumPy](https://numpy.org): [Mailing list discussion](https://mail.python.org/archives/list/numpy-discussion@python.org/thread/LAR7P3KQWHWAIKYSHTS2MY7X4HUBVA3L/)
 - [Scientific Python](https://scientific-python.org): [Blog post: Community Considerations Around AI Contributions](https://blog.scientific-python.org/scientific-python/community-considerations-around-ai/)
@@ -73,6 +76,8 @@ A list of policies by different open source projects about how to engage with AI
 - [Good Egg: Trust scoring for GitHub PR authors](https://github.com/2ndSetAI/good-egg)
 - [Processing AGENTS.md file](https://github.com/processing/processing4/blob/main/AGENTS.md)
 - [p5.js AGENTS.md file](https://github.com/processing/p5.js/blob/main/AGENTS.md)
+- [Position Statement on Generative AI in the RSE Workplace](https://github.com/Academic-Data-Science-Alliance/rse-ai-position-statement/blob/main/RSE-AI-Final_Statement.md)
+- [Exploring Solutions to Tackle Low-Quality Contributions on GitHub](https://github.com/orgs/community/discussions/185387)
 
 ## Acknowledgements
 
