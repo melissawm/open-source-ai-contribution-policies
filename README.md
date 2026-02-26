@@ -42,6 +42,7 @@ A list of policies by different open source projects about how to engage with AI
 
 - [NetBSD](https://www.netbsd.org/): [NetBSD Commit Guidelines](https://www.netbsd.org/developers/commit-guidelines.html) require explicit core approval for every contribution
 - [GNOME Extensions](https://gjs.guide/extensions/development/creating.html): [Review Guidelines](https://gjs.guide/extensions/review-guidelines/review-guidelines.html#extensions-must-not-be-ai-generated)
+- [QGIS](https://github.com/qgis/QGIS-Enhancement-Proposals/pull/363)
 
 ### Projects rejecting AI contributions
 
