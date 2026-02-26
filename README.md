@@ -35,6 +35,7 @@ A list of policies by different open source projects about how to engage with AI
 - [LinkML](https://linkml.io/): [AI Covenant](https://github.com/linkml/linkml/blob/main/AI_COVENANT.md)
 - [DataJourneyHQ](https://datajourneyhq.com/) : [AI aware checklist](https://github.com/DataJourneyHQ/DataJourney/wiki/Contribution-Guidelines-(AI%E2%80%90Aware))
 - [curl](https://curl.se/): [On AI Use in CURL](https://curl.se/dev/contribute.html#on-ai-use-in-curl)
+- [conda](https://github.com/conda/conda): [Generative AI policy](https://docs.conda.io/projects/conda/en/latest/dev-guide/contributing.html#generative-ai))
 
 ### Projects severely restricting AI contributions
 
