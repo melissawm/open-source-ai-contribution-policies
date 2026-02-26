@@ -32,6 +32,7 @@ A list of policies by different open source projects about how to engage with AI
 - [OCaml](https://github.com/ocaml/ocaml): [Guidelines relevant to AI-assisted contributions](https://github.com/ocaml/ocaml/blob/trunk/AI.md)
 - [Pandas](https://pandas.pydata.org): [Automated contributions policy](https://pandas.pydata.org/docs/dev/development/contributing.html#automated-contributions-policy)
 - [Polars](https://pola.rs/): [AI Usage Policy](https://github.com/pola-rs/polars/blob/8425c750b9c5d28c79428998fda2320d076d4178/AI_POLICY.md)
+- [Processing/p5.js](https://processing.org/): [AI Usage Policy](https://github.com/processing/processing4/blob/main/AI_USAGE_POLICY.md)
 - [PyVista](https://pyvista.org): [Generative AI](https://github.com/pyvista/pyvista/blob/main/CONTRIBUTING.rst#generative-ai)
 - [scikit-learn](https://scikit-learn.org): [Automated Contributions Policy](https://scikit-learn.org/dev/developers/contributing.html#automated-contributions-policy)
 - [SciPy](https://scipy.org): [AI Policy](https://scipy.github.io/devdocs/dev/conduct/ai_policy.html)
@@ -70,6 +71,8 @@ A list of policies by different open source projects about how to engage with AI
 - [Pi (AI agent toolkit) – AGENTS.md file](https://github.com/badlogic/pi-mono/blob/4ba3e5be229a570187d8efbef5c14c0d5ce40dcc/AGENTS.md)
 - [The "Vouch" system for managing trust in contributions](https://github.com/mitchellh/vouch)
 - [Good Egg: Trust scoring for GitHub PR authors](https://github.com/2ndSetAI/good-egg)
+- [Processing AGENTS.md file](https://github.com/processing/processing4/blob/main/AGENTS.md)
+- [p5.js AGENTS.md file](https://github.com/processing/p5.js/blob/main/AGENTS.md)
 
 ## Acknowledgements
 
