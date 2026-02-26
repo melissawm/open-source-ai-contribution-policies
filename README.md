@@ -33,6 +33,7 @@ A list of policies by different open source projects about how to engage with AI
 - [Firefox](https://github.com/mozilla-firefox/firefox): [Firefox AI Coding Policy
 ](https://firefox-source-docs.mozilla.org/contributing/ai-coding.html)
 - [Kornia](https://github.com/kornia/kornia/tree/main) : [AI_POLICY.md](https://github.com/kornia/kornia/blob/main/AI_POLICY.md)
+- [DataJourneyHQ](https://datajourneyhq.com/) : [AI aware checklist](https://github.com/DataJourneyHQ/DataJourney/wiki/Contribution-Guidelines-(AI%E2%80%90Aware))
 
 ### Projects severely restricting AI contributions
 
