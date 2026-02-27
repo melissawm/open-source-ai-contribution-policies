@@ -7,6 +7,7 @@ A list of policies by different open source projects about how to engage with AI
 ## Policies
 ### Projects accepting AI-assisted contributions
 
+- [Apache Airflow](https://airflow.apache.org/): [Gen-AI Assisted contributions](https://github.com/apache/airflow/blob/main/contributing-docs/05_pull_requests.rst#gen-ai-assisted-contributions), [Add Copilot code review instructions to catch AI-slop PRs#62442](https://github.com/apache/airflow/pull/62442)
 - [Apache DataFusion](https://datafusion.apache.org): [AI-Assisted contributions](https://datafusion.apache.org/contributor-guide/index.html#ai-assisted-contributions)
 - [Apache Kvrocks](https://kvrocks.apache.org/): [Guidelines for AI-assisted Contributions](https://kvrocks.apache.org/community/contributing/#guidelines-for-ai-assisted-contributions)
 - [Apache® Software Foundation (ASF)](https://www.apache.org/): [ASF Generative Tooling Guidance](https://www.apache.org/legal/generative-tooling.html)
@@ -42,6 +43,7 @@ A list of policies by different open source projects about how to engage with AI
 
 ### Projects severely restricting AI contributions
 
+- [attrs](https://www.attrs.org): [Generative AI / LLM Policy](https://github.com/python-attrs/attrs/blob/main/.github%2FAI_POLICY.md)
 - [GNOME Extensions](https://gjs.guide/extensions/development/creating.html): [Review Guidelines](https://gjs.guide/extensions/review-guidelines/review-guidelines.html#extensions-must-not-be-ai-generated)
 - [NetBSD](https://www.netbsd.org/): [NetBSD Commit Guidelines](https://www.netbsd.org/developers/commit-guidelines.html) require explicit core approval for every contribution
 
@@ -56,6 +58,7 @@ A list of policies by different open source projects about how to engage with AI
 
 ## Ongoing discussions
 
+- [Astropy](https://www.astropy.org/): [AI Policy #530](https://github.com/astropy/astropy-project/pull/530)
 - [Fedora Council Policy Proposal: Policy on AI-Assisted Contributions](https://communityblog.fedoraproject.org/council-policy-proposal-policy-on-ai-assisted-contributions/)
 - [Jupyter](): [AI-assisted code policy: "Literature Review"](https://github.com/jupyter/governance/issues/326)
 - [musl-libc](https://musl.libc.org/): [Tentative policy](https://www.openwall.com/lists/musl/2024/10/19/3)
