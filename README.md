@@ -41,6 +41,7 @@ For a similar overview with plots and more statistics, check out this excellent 
 - [scikit-learn](https://scikit-learn.org): [Automated Contributions Policy](https://scikit-learn.org/dev/developers/contributing.html#automated-contributions-policy)
 - [SciPy](https://scipy.org): [AI Policy](https://scipy.github.io/devdocs/dev/conduct/ai_policy.html)
 - [SymPy](https://www.sympy.org): [AI Generated Code and Communication Policy](https://docs.sympy.org/dev/contributing/ai-generated-code-policy.html)
+- [Wagtail](https://wagtail.org/): [Use of generative AI](https://docs.wagtail.org/en/latest/contributing/general_guidelines.html#general-coding-guidelines)
 - [Zulip](https://zulip.com/): [AI use policy and guidelines](https://github.com/zulip/zulip/blob/main/CONTRIBUTING.md#ai-use-policy-and-guidelines)
 
 ### Projects severely restricting AI contributions
@@ -48,6 +49,7 @@ For a similar overview with plots and more statistics, check out this excellent 
 - [attrs](https://www.attrs.org): [Generative AI / LLM Policy](https://github.com/python-attrs/attrs/blob/main/.github%2FAI_POLICY.md)
 - [GNOME Extensions](https://gjs.guide/extensions/development/creating.html): [Review Guidelines](https://gjs.guide/extensions/review-guidelines/review-guidelines.html#extensions-must-not-be-ai-generated)
 - [NetBSD](https://www.netbsd.org/): [NetBSD Commit Guidelines](https://www.netbsd.org/developers/commit-guidelines.html) require explicit core approval for every contribution
+- [(German) Wikipedia](https://de.wikipedia.org): [Künstliche Intelligenz](https://de.wikipedia.org/wiki/Wikipedia:K%C3%BCnstliche_Intelligenz)
 
 ### Projects rejecting AI contributions
 
