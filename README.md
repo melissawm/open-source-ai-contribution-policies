@@ -40,6 +40,7 @@ A list of policies by different open source projects about how to engage with AI
 - [OCaml](https://github.com/ocaml/ocaml): [Guidelines relevant to AI-assisted contributions](https://github.com/ocaml/ocaml/blob/trunk/AI.md)
 - [Oxide](https://oxide.computer/): [Using LLMs at Oxide](https://rfd.shared.oxide.computer/rfd/0576)
 - [Pandas](https://pandas.pydata.org): [Automated contributions policy](https://pandas.pydata.org/docs/dev/development/contributing.html#automated-contributions-policy)
+- [pip-tools](https://pip-tools.readthedocs.io): [LLM Generated Contributions](https://pip-tools.readthedocs.io/en/latest/contributing/#project-contribution-guidelines)
 - [Polars](https://pola.rs/): [AI Usage Policy](https://github.com/pola-rs/polars/blob/8425c750b9c5d28c79428998fda2320d076d4178/AI_POLICY.md)
 - [Processing/p5.js](https://processing.org/): [AI Usage Policy](https://github.com/processing/processing4/blob/main/AI_USAGE_POLICY.md)
 - [PyVista](https://pyvista.org): [Generative AI](https://github.com/pyvista/pyvista/blob/main/CONTRIBUTING.rst#generative-ai)
