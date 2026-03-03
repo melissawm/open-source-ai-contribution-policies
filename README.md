@@ -26,6 +26,7 @@ A list of policies by different open source projects about how to engage with AI
 - [FastAPI](https://fastapi.tiangolo.com): [Automated Code and AI](https://fastapi.tiangolo.com/contributing/#automated-code-and-ai)
 - [Firefox](https://github.com/mozilla-firefox/firefox): [Firefox AI Coding Policy](https://firefox-source-docs.mozilla.org/contributing/ai-coding.html)
 - [Ghostty](https://ghostty.org/): [AI Usage Policy](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)
+- [goose](https://github.com/block/goose): [How to Use AI with goose](https://github.com/block/goose/blob/main/HOWTOAI.md), [AGENTS.md file](https://github.com/block/goose/blob/main/AGENTS.md), [copilot-instructions.md file](https://github.com/block/goose/blob/main/.github/copilot-instructions.md)
 - [Homebrew](https://github.com/Homebrew/brew/tree/main): [(AI/LLM) usage](https://github.com/Homebrew/brew/blob/main/CONTRIBUTING.md#artificial-intelligencelarge-language-model-aillm-usage)
 - [IREE (Intermediate Representation Execution Environment)](https://iree.dev/): [AI tool use](https://iree.dev/developers/general/contributing/#ai-tool-use)
 - [Jellyfin](https://jellyfin.org/): [Jellyfin LLM/"AI" Development Policy](https://jellyfin.org/docs/general/contributing/llm-policies/)
@@ -45,6 +46,7 @@ A list of policies by different open source projects about how to engage with AI
 - [scikit-learn](https://scikit-learn.org): [Automated Contributions Policy](https://scikit-learn.org/dev/developers/contributing.html#automated-contributions-policy)
 - [SciPy](https://scipy.org): [AI Policy](https://scipy.github.io/devdocs/dev/conduct/ai_policy.html)
 - [SymPy](https://www.sympy.org): [AI Generated Code and Communication Policy](https://docs.sympy.org/dev/contributing/ai-generated-code-policy.html)
+- [University of Alaska Anchorage](https://github.com/uaanchorage): [GSoC/Acceptable-and-Ethical-AI-Use-Policy.md](https://github.com/uaanchorage/GSoC/blob/main/Acceptable-and-Ethical-AI-Use-Policy.md)
 - [Wagtail](https://wagtail.org/): [Use of generative AI](https://docs.wagtail.org/en/latest/contributing/general_guidelines.html#general-coding-guidelines)
 - [Zulip](https://zulip.com/): [AI use policy and guidelines](https://github.com/zulip/zulip/blob/main/CONTRIBUTING.md#ai-use-policy-and-guidelines)
 
@@ -90,6 +92,7 @@ A list of policies by different open source projects about how to engage with AI
 - [p5.js AGENTS.md file](https://github.com/processing/p5.js/blob/main/AGENTS.md)
 - [Position Statement on Generative AI in the RSE Workplace](https://github.com/Academic-Data-Science-Alliance/rse-ai-position-statement/blob/main/RSE-AI-Final_Statement.md)
 - [Exploring Solutions to Tackle Low-Quality Contributions on GitHub](https://github.com/orgs/community/discussions/185387)
+- [LibreHealth](https://gitlab.com/librehealth) GSoC participation policy: [README: The use of AI is forbidden at any point during the program](https://forums.librehealth.io/t/readme-the-use-of-ai-is-forbidden-at-any-point-during-the-program/5400)
 
 ## Acknowledgements
 
