@@ -28,6 +28,7 @@ A list of policies by different open source projects about how to engage with AI
 - [Ghostty](https://ghostty.org/): [AI Usage Policy](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)
 - [goose](https://github.com/block/goose): [How to Use AI with goose](https://github.com/block/goose/blob/main/HOWTOAI.md), [AGENTS.md file](https://github.com/block/goose/blob/main/AGENTS.md), [copilot-instructions.md file](https://github.com/block/goose/blob/main/.github/copilot-instructions.md)
 - [Homebrew](https://github.com/Homebrew/brew/tree/main): [(AI/LLM) usage](https://github.com/Homebrew/brew/blob/main/CONTRIBUTING.md#artificial-intelligencelarge-language-model-aillm-usage)
+- [Icechunk](https://icechunk.io/en/latest/): No disclosure required - norms for code responsibility and communication [AI Usage/Contribution Policy](https://icechunk.io/en/latest/ai-policy/)
 - [IREE (Intermediate Representation Execution Environment)](https://iree.dev/): [AI tool use](https://iree.dev/developers/general/contributing/#ai-tool-use)
 - [Jellyfin](https://jellyfin.org/): [Jellyfin LLM/"AI" Development Policy](https://jellyfin.org/docs/general/contributing/llm-policies/)
 - [Kornia](https://github.com/kornia/kornia/tree/main) : [AI_POLICY.md](https://github.com/kornia/kornia/blob/main/AI_POLICY.md)
