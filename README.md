@@ -67,12 +67,14 @@ A list of policies by different open source projects about how to engage with AI
 
 ### Projects rejecting AI contributions
 
+- [CC Open Source](https://opensource.creativecommons.org/): [Contribution Guidelines](https://opensource.creativecommons.org/contributing-code/)
 - [do](https://codeberg.org/cgranade/do): [License and AI Policy](https://codeberg.org/cgranade/do#license-and-ai-policy)
 - [Gentoo Linux](https://www.gentoo.org/): [AI Policy](https://wiki.gentoo.org/wiki/Project:Council/AI_policy)
 - [GoToSocial](https://gotosocial.org/): [Code of Conduct](https://codeberg.org/superseriousbusiness/gotosocial/src/branch/main/CODE_OF_CONDUCT.md)
 - [Linux man-pages](): [AI - artificial intelligence policy](https://git.kernel.org/pub/scm/docs/man-pages/man-pages.git/tree/CONTRIBUTING.d/ai)
 - [postmarketOS](https://postmarketos.org): [AI Policy](https://docs.postmarketos.org/policies-and-processes/development/ai-policy.html)
 - [QEMU](https://www.qemu.org): [Use of AI-generated content](https://www.qemu.org/docs/master/devel/code-provenance.html#use-of-ai-generated-content)
+- [Redox OS](https://www.redox-os.org/): [AI Policy](https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md#ai-policy)
 
 ## Ongoing discussions
 
