@@ -19,7 +19,7 @@ A list of policies by different open source projects about how to engage with AI
 - [Arrow](https://arrow.apache.org): [AI-generated code](https://arrow.apache.org/docs/dev/developers/overview.html#ai-generated-code)
 - [CCExtractor](https://ccextractor.org/): [Using AI to generate PRs before and during GSoC](https://ccextractor.org/public/gsoc/ai_policy/)
 - [CloudNativePG](https://cloudnative-pg.io/): [AI Policy](https://github.com/cloudnative-pg/governance/blob/main/AI_POLICY.md)
-- [conda](https://github.com/conda/conda): [Generative AI policy](https://docs.conda.io/projects/conda/en/latest/dev-guide/contributing.html#generative-ai))
+- [conda](https://github.com/conda/conda): [Generative AI policy](https://docs.conda.io/projects/conda/en/latest/dev-guide/contributing.html#generative-ai)
 - [CPython](https://github.com/python/cpython): [Generative AI policy](https://devguide.python.org/getting-started/generative-ai/)
 - [curl](https://curl.se/): [On AI Use in CURL](https://curl.se/dev/contribute.html#on-ai-use-in-curl)
 - [DataJourneyHQ](https://datajourneyhq.com/) : [AI aware checklist](https://github.com/DataJourneyHQ/DataJourney/wiki/Contribution-Guidelines-(AI%E2%80%90Aware))
