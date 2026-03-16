@@ -65,6 +65,7 @@ A list of policies by different open source projects about how to engage with AI
 - [NetBSD](https://www.netbsd.org/): [NetBSD Commit Guidelines](https://www.netbsd.org/developers/commit-guidelines.html) require explicit core approval for every contribution
 - [(German) Wikipedia](https://de.wikipedia.org): [Künstliche Intelligenz](https://de.wikipedia.org/wiki/Wikipedia:K%C3%BCnstliche_Intelligenz)
 - [Molecular Nodes](https://bradyajohnston.github.io/MolecularNodes/): [MolecularNodes AI-generated contributions policy](https://github.com/BradyAJohnston/MolecularNodes/blob/main/AI_POLICY.md)
+- [MDAnalysis](https://www.mdanalysis.org/): [MDAnalysis AI-generated contributions policy](https://github.com/MDAnalysis/mdanalysis/blob/develop/AI_POLICY.md)
 
 ### Projects rejecting AI contributions
 
@@ -81,6 +82,7 @@ A list of policies by different open source projects about how to engage with AI
 
 - [Astropy](https://www.astropy.org/): [AI Policy #530](https://github.com/astropy/astropy-project/pull/530)
 - [Fedora Council Policy Proposal: Policy on AI-Assisted Contributions](https://communityblog.fedoraproject.org/council-policy-proposal-policy-on-ai-assisted-contributions/)
+- [Inkscape - Policy Discussion: Generative AI](https://gitlab.com/inkscape/inkscape-board/-/work_items/5)
 - [Jupyter](): [AI-assisted code policy: "Literature Review"](https://github.com/jupyter/governance/issues/326)
 - [musl-libc](https://musl.libc.org/): [Tentative policy](https://www.openwall.com/lists/musl/2024/10/19/3)
 - [NumPy](https://numpy.org): [Mailing list discussion](https://mail.python.org/archives/list/numpy-discussion@python.org/thread/LAR7P3KQWHWAIKYSHTS2MY7X4HUBVA3L/)
