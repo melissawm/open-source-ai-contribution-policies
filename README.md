@@ -42,6 +42,7 @@ A list of policies by different open source projects about how to engage with AI
 - [napari](https://napari.org): [AI use policy and guidelines](https://napari.org/dev/developers/contributing/ai.html)
 - [nvim-tree](https://github.com/nvim-tree/nvim-tree.lua): [AI Usage Policy: Highly Discouraged](https://github.com/nvim-tree/nvim-tree.lua?tab=contributing-ov-file#ai-usage-policy-highly-discouraged)
 - [OCaml](https://github.com/ocaml/ocaml): [Guidelines relevant to AI-assisted contributions](https://github.com/ocaml/ocaml/blob/trunk/AI.md)
+- [OpenInfra](https://openinfra.org/): [Policy for AI Generated Content](https://openinfra.org/legal/ai-policy)
 - [Oxide](https://oxide.computer/): [Using LLMs at Oxide](https://rfd.shared.oxide.computer/rfd/0576)
 - [Pandas](https://pandas.pydata.org): [Automated contributions policy](https://pandas.pydata.org/docs/dev/development/contributing.html#automated-contributions-policy)
 - [pgwatch](https://pgwat.ch/): [ARTIFICIAL INTELLIGENCE & AUTOMATION POLICY (V1.0)](https://github.com/cybertec-postgresql/pgwatch/blob/master/AI_POLICY.md)
@@ -62,25 +63,32 @@ A list of policies by different open source projects about how to engage with AI
 
 - [attrs](https://www.attrs.org): [Generative AI / LLM Policy](https://github.com/python-attrs/attrs/blob/main/.github%2FAI_POLICY.md)
 - [GNOME Extensions](https://gjs.guide/extensions/development/creating.html): [Review Guidelines](https://gjs.guide/extensions/review-guidelines/review-guidelines.html#extensions-must-not-be-ai-generated)
+- [MDAnalysis](https://www.mdanalysis.org/): [MDAnalysis AI-generated contributions policy](https://github.com/MDAnalysis/mdanalysis/blob/develop/AI_POLICY.md)
+- [Molecular Nodes](https://bradyajohnston.github.io/MolecularNodes/): [MolecularNodes AI-generated contributions policy](https://github.com/BradyAJohnston/MolecularNodes/blob/main/AI_POLICY.md)
 - [NetBSD](https://www.netbsd.org/): [NetBSD Commit Guidelines](https://www.netbsd.org/developers/commit-guidelines.html) require explicit core approval for every contribution
 - [(German) Wikipedia](https://de.wikipedia.org): [Künstliche Intelligenz](https://de.wikipedia.org/wiki/Wikipedia:K%C3%BCnstliche_Intelligenz)
-- [Molecular Nodes](https://bradyajohnston.github.io/MolecularNodes/): [MolecularNodes AI-generated contributions policy](https://github.com/BradyAJohnston/MolecularNodes/blob/main/AI_POLICY.md)
-- [MDAnalysis](https://www.mdanalysis.org/): [MDAnalysis AI-generated contributions policy](https://github.com/MDAnalysis/mdanalysis/blob/develop/AI_POLICY.md)
 
 ### Projects rejecting AI contributions
 
+- [Asahi Linux](https://asahilinux.org): [Generative AI](https://asahilinux.org/docs/project/policies/slop/)
+- [CapyPDF](https://github.com/jpakkane/capypdf): [AI Policy](https://github.com/jpakkane/capypdf/?tab=readme-ov-file#ai-policy)
 - [CC Open Source](https://opensource.creativecommons.org/): [Contribution Guidelines](https://opensource.creativecommons.org/contributing-code/)
 - [do](https://codeberg.org/cgranade/do): [License and AI Policy](https://codeberg.org/cgranade/do#license-and-ai-policy)
+- [Elementary OS](https://elementary.io/): [Generative AI Policy](https://docs.elementary.io/contributor-guide/development/generative-ai-policy)
 - [Gentoo Linux](https://www.gentoo.org/): [AI Policy](https://wiki.gentoo.org/wiki/Project:Council/AI_policy)
+- [GIMP](https://gitlab.gnome.org/GNOME/gimp): [Contribution Guidelines](https://gitlab.gnome.org/GNOME/gimp/-/blob/master/.gitlab/merge_request_templates/default.md?plain=1#L11-12)
 - [GoToSocial](https://gotosocial.org/): [Code of Conduct](https://codeberg.org/superseriousbusiness/gotosocial/src/branch/main/CODE_OF_CONDUCT.md)
 - [Linux man-pages](): [AI - artificial intelligence policy](https://git.kernel.org/pub/scm/docs/man-pages/man-pages.git/tree/CONTRIBUTING.d/ai)
+- [GNOME Loupe](https://welcome.gnome.org/app/Loupe/): [Use of Generative AI](https://gitlab.gnome.org/GNOME/loupe/-/blob/main/CONTRIBUTING.md?ref_type=heads#use-of-generative-ai)
 - [postmarketOS](https://postmarketos.org): [AI Policy](https://docs.postmarketos.org/policies-and-processes/development/ai-policy.html)
 - [QEMU](https://www.qemu.org): [Use of AI-generated content](https://www.qemu.org/docs/master/devel/code-provenance.html#use-of-ai-generated-content)
 - [Redox OS](https://www.redox-os.org/): [AI Policy](https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md#ai-policy)
 
 ## Ongoing discussions
 
+- [Agda](https://wiki.portal.chalmers.se/agda/pmwiki.php): [Blanket ban on LLM-generated contributions#8456](https://github.com/agda/agda/pull/8456)
 - [Astropy](https://www.astropy.org/): [AI Policy #530](https://github.com/astropy/astropy-project/pull/530)
+- [Blender](https://www.blender.org/): [AI Contibutions Policy](https://devtalk.blender.org/t/ai-contributions-policy/44202)
 - [Fedora Council Policy Proposal: Policy on AI-Assisted Contributions](https://communityblog.fedoraproject.org/council-policy-proposal-policy-on-ai-assisted-contributions/)
 - [Inkscape - Policy Discussion: Generative AI](https://gitlab.com/inkscape/inkscape-board/-/work_items/5)
 - [Jupyter](): [AI-assisted code policy: "Literature Review"](https://github.com/jupyter/governance/issues/326)
@@ -92,6 +100,7 @@ A list of policies by different open source projects about how to engage with AI
 
 ## Other references
 
+- [Linux Foundation's Guidance Regarding Use of Generative AI Tools for Open Source Software Development](https://www.linuxfoundation.org/legal/generative-ai)
 - [Xarray's CLAUDE.md file](https://github.com/pydata/xarray/blob/main/CLAUDE.md)
 - [Preparing JOSS for a generative AI future: From code to human creativity and design](https://blog.joss.theoj.org/2026/01/preparing-joss-for-a-generative-ai-future)
 - [Navigating LLMs in Open Source: pyOpenSci’s New Peer Review Policy](https://www.pyopensci.org/blog/generative-ai-peer-review-policy.html)
