@@ -98,6 +98,7 @@ A list of policies by different open source projects about how to engage with AI
 - [Scientific Python](https://scientific-python.org): [Blog post: Community Considerations Around AI Contributions](https://blog.scientific-python.org/scientific-python/community-considerations-around-ai/)
 - [scikit-image](https://scikit-image.org/): [PR#7982](https://github.com/scikit-image/scikit-image/pull/7982)
 - [QGIS](https://github.com/qgis/QGIS-Enhancement-Proposals/pull/363)
+- [Rust](https://rust-lang.org): [Policy proposal: No low-effort contributions](https://github.com/rust-lang/leadership-council/issues/273)
 
 ## Other references
 
