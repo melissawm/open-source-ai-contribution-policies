@@ -27,6 +27,7 @@ A list of policies by different open source projects about how to engage with AI
 - [FastAPI](https://fastapi.tiangolo.com): [Automated Code and AI](https://fastapi.tiangolo.com/contributing/#automated-code-and-ai)
 - [Firefox](https://github.com/mozilla-firefox/firefox): [Firefox AI Coding Policy](https://firefox-source-docs.mozilla.org/contributing/ai-coding.html)
 - [Flutter](https://flutter.dev/): [AI contribution guidelines](https://github.com/flutter/flutter/blob/master/docs/contributing/Tree-hygiene.md#ai-contribution-guidelines)
+- [forgejo](https://forgejo.org/): [AI Agreement](https://codeberg.org/forgejo/governance/src/branch/main/AIAgreement.md)
 - [Ghostty](https://ghostty.org/): [AI Usage Policy](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)
 - [Gitea](https://gitea.com/): [AI Contribution Policy](https://github.com/go-gitea/gitea/blob/main/CONTRIBUTING.md#ai-contribution-policy)
 - [goose](https://github.com/block/goose): [How to Use AI with goose](https://github.com/block/goose/blob/main/HOWTOAI.md), [AGENTS.md file](https://github.com/block/goose/blob/main/AGENTS.md), [copilot-instructions.md file](https://github.com/block/goose/blob/main/.github/copilot-instructions.md)
@@ -36,10 +37,12 @@ A list of policies by different open source projects about how to engage with AI
 - [Jellyfin](https://jellyfin.org/): [Jellyfin LLM/"AI" Development Policy](https://jellyfin.org/docs/general/contributing/llm-policies/)
 - [Kornia](https://github.com/kornia/kornia/tree/main) : [AI_POLICY.md](https://github.com/kornia/kornia/blob/main/AI_POLICY.md)
 - [LinkML](https://linkml.io/): [AI Covenant](https://github.com/linkml/linkml/blob/main/AI_COVENANT.md)
+- [Linux Kernel](https://kernel.org/): [AI Coding Assistants](https://kernel.org/doc/html/next/process/coding-assistants.html)
 - [LLVM](https://llvm.org): [LLVM AI Tool Use Policy](https://llvm.org/docs//AIToolPolicy.html)
 - [Matplotlib](https://matplotlib.org): [Restrictions on Generative AI Usage](https://matplotlib.org/devdocs/devel/contribute.html#generative-ai)
 - [MicroPython](https://micropython.org): [Generative AI Policy](https://github.com/micropython/micropython/wiki/ContributorGuidelines#generative-ai-policy)
 - [napari](https://napari.org): [AI use policy and guidelines](https://napari.org/dev/developers/contributing/ai.html)
+- [NumPy](https://numpy.org): [AI Policy](https://numpy.org/devdocs/dev/ai_policy.html), [Mailing list discussion](https://mail.python.org/archives/list/numpy-discussion@python.org/thread/LAR7P3KQWHWAIKYSHTS2MY7X4HUBVA3L/)
 - [nvim-tree](https://github.com/nvim-tree/nvim-tree.lua): [AI Usage Policy: Highly Discouraged](https://github.com/nvim-tree/nvim-tree.lua?tab=contributing-ov-file#ai-usage-policy-highly-discouraged)
 - [OCaml](https://github.com/ocaml/ocaml): [Guidelines relevant to AI-assisted contributions](https://github.com/ocaml/ocaml/blob/trunk/AI.md)
 - [OpenInfra](https://openinfra.org/): [Policy for AI Generated Content](https://openinfra.org/legal/ai-policy)
@@ -84,6 +87,7 @@ A list of policies by different open source projects about how to engage with AI
 - [QEMU](https://www.qemu.org): [Use of AI-generated content](https://www.qemu.org/docs/master/devel/code-provenance.html#use-of-ai-generated-content)
 - [Redox OS](https://www.redox-os.org/): [AI Policy](https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md#ai-policy)
 - [Servo](https://servo.org): [AI Contributions](https://book.servo.org/contributing/getting-started.html#ai-contributions)
+- [Zig](https://ziglang.org): [Strict No LLM / No AI Policy](https://ziglang.org/code-of-conduct/#strict-no-llm-no-ai-policy)
 
 ## Ongoing discussions
 
@@ -94,10 +98,11 @@ A list of policies by different open source projects about how to engage with AI
 - [Inkscape - Policy Discussion: Generative AI](https://gitlab.com/inkscape/inkscape-board/-/work_items/5)
 - [Jupyter](): [AI-assisted code policy: "Literature Review"](https://github.com/jupyter/governance/issues/326)
 - [musl-libc](https://musl.libc.org/): [Tentative policy](https://www.openwall.com/lists/musl/2024/10/19/3)
-- [NumPy](https://numpy.org): [Mailing list discussion](https://mail.python.org/archives/list/numpy-discussion@python.org/thread/LAR7P3KQWHWAIKYSHTS2MY7X4HUBVA3L/)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs): [How do we deal with AI-generated issues? #410741](https://github.com/NixOS/nixpkgs/issues/410741)
 - [Scientific Python](https://scientific-python.org): [Blog post: Community Considerations Around AI Contributions](https://blog.scientific-python.org/scientific-python/community-considerations-around-ai/)
 - [scikit-image](https://scikit-image.org/): [PR#7982](https://github.com/scikit-image/scikit-image/pull/7982)
 - [QGIS](https://github.com/qgis/QGIS-Enhancement-Proposals/pull/363)
+- [Rust](https://rust-lang.org): [Policy proposal: No low-effort contributions](https://github.com/rust-lang/leadership-council/issues/273)
 
 ## Other references
 
