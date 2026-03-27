@@ -73,6 +73,8 @@ A list of policies by different open source projects about how to engage with AI
 
 ### Projects rejecting AI contributions
 
+- [Apache CouchDB](https://couchdb.apache.org): [Contribution Guidelines](https://github.com/apache/couchdb/blob/main/CONTRIBUTING.md#artificial-intelligence-and-large-language-models-contributions-policy)
+- [Apache PouchDB](https://pouchdb.com): [Contribution Guidelines](https://github.com/apache/pouchdb/blob/master/CONTRIBUTING.md#artificial-intelligence-and-large-language-models-contributions-policy)
 - [Asahi Linux](https://asahilinux.org): [Generative AI](https://asahilinux.org/docs/project/policies/slop/)
 - [CapyPDF](https://github.com/jpakkane/capypdf): [AI Policy](https://github.com/jpakkane/capypdf/?tab=readme-ov-file#ai-policy)
 - [CC Open Source](https://opensource.creativecommons.org/): [Contribution Guidelines](https://opensource.creativecommons.org/contributing-code/)
