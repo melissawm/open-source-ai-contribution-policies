@@ -127,6 +127,7 @@ A list of policies by different open source projects about how to engage with AI
 - [Exploring Solutions to Tackle Low-Quality Contributions on GitHub](https://github.com/orgs/community/discussions/185387)
 - [LibreHealth](https://gitlab.com/librehealth) GSoC participation policy: [README: The use of AI is forbidden at any point during the program](https://forums.librehealth.io/t/readme-the-use-of-ai-is-forbidden-at-any-point-during-the-program/5400)
 - [Superpowers CLAUDE.md file](https://github.com/obra/superpowers/blob/main/CLAUDE.md)
+- [rOpenSci's policy on the use of AI on software peer review](https://ropensci.org/blog/2026/02/26/ropensci-ai-policy/)
 
 ## Acknowledgements
 
