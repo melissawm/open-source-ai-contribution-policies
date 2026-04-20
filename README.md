@@ -25,6 +25,7 @@ A list of policies by different open source projects about how to engage with AI
 - [curl](https://curl.se/): [On AI Use in CURL](https://curl.se/dev/contribute.html#on-ai-use-in-curl)
 - [DataJourneyHQ](https://datajourneyhq.com/) : [AI aware checklist](https://github.com/DataJourneyHQ/DataJourney/wiki/Contribution-Guidelines-(AI%E2%80%90Aware))
 - [Django](https://www.djangoproject.com/): [Security Policy > AI-Assisted Reports](https://docs.djangoproject.com/en/dev/internals/security/#ai-assisted-reports), [PR template](https://github.com/django/django/blob/main/.github/pull_request_template.md)
+- [EasyBuild](https://easybuild.io/): [EasyBuild AI Policy](https://docs.easybuild.io/policies/ai/)
 - [FastAPI](https://fastapi.tiangolo.com): [Automated Code and AI](https://fastapi.tiangolo.com/contributing/#automated-code-and-ai)
 - [Firefox](https://github.com/mozilla-firefox/firefox): [Firefox AI Coding Policy](https://firefox-source-docs.mozilla.org/contributing/ai-coding.html)
 - [Flutter](https://flutter.dev/): [AI contribution guidelines](https://github.com/flutter/flutter/blob/master/docs/contributing/Tree-hygiene.md#ai-contribution-guidelines)
