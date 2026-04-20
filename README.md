@@ -37,6 +37,7 @@ A list of policies by different open source projects about how to engage with AI
 - [IREE (Intermediate Representation Execution Environment)](https://iree.dev/): [AI tool use](https://iree.dev/developers/general/contributing/#ai-tool-use)
 - [Jellyfin](https://jellyfin.org/): [Jellyfin LLM/"AI" Development Policy](https://jellyfin.org/docs/general/contributing/llm-policies/)
 - [Kornia](https://github.com/kornia/kornia/tree/main) : [AI_POLICY.md](https://github.com/kornia/kornia/blob/main/AI_POLICY.md)
+- [Kubernetes](https://kubernetes.io/): [AI Guidance](https://www.kubernetes.dev/docs/guide/pull-requests/#ai-guidance)
 - [LinkML](https://linkml.io/): [AI Covenant](https://github.com/linkml/linkml/blob/main/AI_COVENANT.md)
 - [Linux Kernel](https://kernel.org/): [AI Coding Assistants](https://kernel.org/doc/html/next/process/coding-assistants.html)
 - [LLVM](https://llvm.org): [LLVM AI Tool Use Policy](https://llvm.org/docs//AIToolPolicy.html)
