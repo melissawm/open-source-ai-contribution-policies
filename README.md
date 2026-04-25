@@ -79,12 +79,15 @@ A list of policies by different open source projects about how to engage with AI
 - [Asahi Linux](https://asahilinux.org): [Generative AI](https://asahilinux.org/docs/project/policies/slop/)
 - [CapyPDF](https://github.com/jpakkane/capypdf): [AI Policy](https://github.com/jpakkane/capypdf/?tab=readme-ov-file#ai-policy)
 - [CC Open Source](https://opensource.creativecommons.org/): [Contribution Guidelines](https://opensource.creativecommons.org/contributing-code/)
+- [Clojure](https://clojure.org): [No Generated Code](https://clojure.org/dev/contributor_agreement#_no_generated_code)
 - [do](https://codeberg.org/cgranade/do): [License and AI Policy](https://codeberg.org/cgranade/do#license-and-ai-policy)
 - [Elementary OS](https://elementary.io/): [Generative AI Policy](https://docs.elementary.io/contributor-guide/development/generative-ai-policy)
 - [Forgejo](https://forgejo.org/): [AI Agreement](https://codeberg.org/forgejo/governance/src/branch/main/AIAgreement.md)
 - [Gentoo Linux](https://www.gentoo.org/): [AI Policy](https://wiki.gentoo.org/wiki/Project:Council/AI_policy)
 - [GIMP](https://gitlab.gnome.org/GNOME/gimp): [Contribution Guidelines](https://gitlab.gnome.org/GNOME/gimp/-/blob/master/.gitlab/merge_request_templates/default.md?plain=1#L11-12)
+- [Glasgow Interface Explorer](https://glasgow-embedded.org): [Contributing code or documentation](https://glasgow-embedded.org/latest/contribute.html#contributing-code-or-documentation)
 - [GoToSocial](https://gotosocial.org/): [Code of Conduct](https://codeberg.org/superseriousbusiness/gotosocial/src/branch/main/CODE_OF_CONDUCT.md)
+- [Krita](https://krita.org): [AI Moratorium](https://invent.kde.org/graphics/krita#user-content-ai-moratorium) ([maintainer statement](https://krita-artists.org/t/policy-on-llm-code/178248/12))
 - [Linux man-pages](): [AI - artificial intelligence policy](https://git.kernel.org/pub/scm/docs/man-pages/man-pages.git/tree/CONTRIBUTING.d/ai)
 - [GNOME Loupe](https://welcome.gnome.org/app/Loupe/): [Use of Generative AI](https://gitlab.gnome.org/GNOME/loupe/-/blob/main/CONTRIBUTING.md?ref_type=heads#use-of-generative-ai)
 - [postmarketOS](https://postmarketos.org): [AI Policy](https://docs.postmarketos.org/policies-and-processes/development/ai-policy.html)
@@ -92,6 +95,7 @@ A list of policies by different open source projects about how to engage with AI
 - [Redox OS](https://www.redox-os.org/): [AI Policy](https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md#ai-policy)
 - [SDL](https://libsdl.org/): [PR Template](https://github.com/libsdl-org/SDL/blob/main/.github/PULL_REQUEST_TEMPLATE.md), [AGENTS.md file](https://github.com/libsdl-org/SDL/blob/main/AGENTS.md)
 - [Servo](https://servo.org): [AI Contributions](https://book.servo.org/contributing/getting-started.html#ai-contributions)
+- [Telegraf](https://influxdata.com/telegraf): [AI Generated Code](https://github.com/influxdata/telegraf?tab=contributing-ov-file#ai-generated-code)
 - [Zig](https://ziglang.org): [Strict No LLM / No AI Policy](https://ziglang.org/code-of-conduct/#strict-no-llm-no-ai-policy)
 
 ## Ongoing discussions
