@@ -83,6 +83,7 @@ A list of policies by different open source projects about how to engage with AI
 - [Elementary OS](https://elementary.io/): [Generative AI Policy](https://docs.elementary.io/contributor-guide/development/generative-ai-policy)
 - [Forgejo](https://forgejo.org/): [AI Agreement](https://codeberg.org/forgejo/governance/src/branch/main/AIAgreement.md)
 - [Gentoo Linux](https://www.gentoo.org/): [AI Policy](https://wiki.gentoo.org/wiki/Project:Council/AI_policy)
+- [GNU Binutils](https://sourceware.org/binutils/): [LLM Generated Content](https://sourceware.org/binutils/wiki/LLM_Generated_Content)
 - [GIMP](https://gitlab.gnome.org/GNOME/gimp): [Contribution Guidelines](https://gitlab.gnome.org/GNOME/gimp/-/blob/master/.gitlab/merge_request_templates/default.md?plain=1#L11-12)
 - [GoToSocial](https://gotosocial.org/): [Code of Conduct](https://codeberg.org/superseriousbusiness/gotosocial/src/branch/main/CODE_OF_CONDUCT.md)
 - [Linux man-pages](): [AI - artificial intelligence policy](https://git.kernel.org/pub/scm/docs/man-pages/man-pages.git/tree/CONTRIBUTING.d/ai)
