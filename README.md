@@ -41,6 +41,7 @@ A list of policies by different open source projects about how to engage with AI
 - [Linux Kernel](https://kernel.org/): [AI Coding Assistants](https://kernel.org/doc/html/next/process/coding-assistants.html)
 - [LLVM](https://llvm.org): [LLVM AI Tool Use Policy](https://llvm.org/docs//AIToolPolicy.html)
 - [Matplotlib](https://matplotlib.org): [Restrictions on Generative AI Usage](https://matplotlib.org/devdocs/devel/contribute.html#generative-ai)
+- [Mesa](https://mesa3d.org/): [Submitting Patches](https://gitlab.freedesktop.org/mesa/mesa/-/blob/main/docs/submittingpatches.rst?ref_type=heads#id2)
 - [MicroPython](https://micropython.org): [Generative AI Policy](https://github.com/micropython/micropython/wiki/ContributorGuidelines#generative-ai-policy)
 - [napari](https://napari.org): [AI use policy and guidelines](https://napari.org/dev/developers/contributing/ai.html)
 - [NumPy](https://numpy.org): [AI Policy](https://numpy.org/devdocs/dev/ai_policy.html), [Mailing list discussion](https://mail.python.org/archives/list/numpy-discussion@python.org/thread/LAR7P3KQWHWAIKYSHTS2MY7X4HUBVA3L/)
