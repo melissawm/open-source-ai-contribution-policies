@@ -143,4 +143,4 @@ A list of policies by different open source projects about how to engage with AI
 
 ## Acknowledgements
 
-Many thanks to multiple contributors who shared links and contributed in private or on [Mastodon](https://pynews.com.br/@melissawm/116097821572556756) (let me know if you want attribution :smile:)
+Many thanks to multiple contributors who shared links and contributed in private, on [Mastodon](https://pynews.com.br/@melissawm/116097821572556756) or LinkedIn (let me know if you want attribution :smile:)
