@@ -100,6 +100,7 @@ A list of policies by different open source projects about how to engage with AI
 - [Astropy](https://www.astropy.org/): [AI Policy #530](https://github.com/astropy/astropy-project/pull/530)
 - [Blender](https://www.blender.org/): [AI Contibutions Policy](https://devtalk.blender.org/t/ai-contributions-policy/44202)
 - [Fedora Council Policy Proposal: Policy on AI-Assisted Contributions](https://communityblog.fedoraproject.org/council-policy-proposal-policy-on-ai-assisted-contributions/)
+- [FreeBSD](https://www.freebsd.org/): [Policy on generative AI created code and documentation](https://www.freebsd.org/status/report-2025-04-2025-06/core/)
 - [GCC](https://gcc.gnu.org/): [Working Group for GCC AI Policy](https://gcc.gnu.org/wiki/working-group-ai-policy)
 - [Inkscape - Policy Discussion: Generative AI](https://gitlab.com/inkscape/inkscape-board/-/work_items/5)
 - [Jupyter](): [AI-assisted code policy: "Literature Review"](https://github.com/jupyter/governance/issues/326)
