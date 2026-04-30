@@ -102,7 +102,7 @@ A list of policies by different open source projects about how to engage with AI
 - [SDL](https://libsdl.org/): [PR Template](https://github.com/libsdl-org/SDL/blob/main/.github/PULL_REQUEST_TEMPLATE.md), [AGENTS.md file](https://github.com/libsdl-org/SDL/blob/main/AGENTS.md)
 - [Servo](https://servo.org): [AI Contributions](https://book.servo.org/contributing/getting-started.html#ai-contributions)
 - [Telegraf](https://influxdata.com/telegraf): [AI Generated Code](https://github.com/influxdata/telegraf?tab=contributing-ov-file#ai-generated-code)
-- [Zig](https://ziglang.org): [Strict No LLM / No AI Policy](https://ziglang.org/code-of-conduct/#strict-no-llm-no-ai-policy)
+- [Zig](https://ziglang.org): [Strict No LLM / No AI Policy](https://ziglang.org/code-of-conduct/#strict-no-llm-no-ai-policy), [Contributor Poker and Zig's AI Ban - rationale for ban](https://kristoff.it/blog/contributor-poker-and-ai/)
 
 ## Ongoing discussions
 
