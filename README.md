@@ -50,6 +50,7 @@ A list of policies by different open source projects about how to engage with AI
 - [NumPy](https://numpy.org): [AI Policy](https://numpy.org/devdocs/dev/ai_policy.html), [Mailing list discussion](https://mail.python.org/archives/list/numpy-discussion@python.org/thread/LAR7P3KQWHWAIKYSHTS2MY7X4HUBVA3L/)
 - [nvim-tree](https://github.com/nvim-tree/nvim-tree.lua): [AI Usage Policy: Highly Discouraged](https://github.com/nvim-tree/nvim-tree.lua?tab=contributing-ov-file#ai-usage-policy-highly-discouraged)
 - [OCaml](https://github.com/ocaml/ocaml): [Guidelines relevant to AI-assisted contributions](https://github.com/ocaml/ocaml/blob/trunk/AI.md)
+- [Open edX](https://openedx.org/): [AI Contribution Policy](https://github.com/openedx/.github/blob/master/AI_POLICY.md)
 - [OpenInfra](https://openinfra.org/): [Policy for AI Generated Content](https://openinfra.org/legal/ai-policy)
 - [Oxide](https://oxide.computer/): [Using LLMs at Oxide](https://rfd.shared.oxide.computer/rfd/0576)
 - [Pandas](https://pandas.pydata.org): [Automated contributions policy](https://pandas.pydata.org/docs/dev/development/contributing.html#automated-contributions-policy)
@@ -141,6 +142,7 @@ A list of policies by different open source projects about how to engage with AI
 - [LibreHealth](https://gitlab.com/librehealth) GSoC participation policy: [README: The use of AI is forbidden at any point during the program](https://forums.librehealth.io/t/readme-the-use-of-ai-is-forbidden-at-any-point-during-the-program/5400)
 - [Superpowers CLAUDE.md file](https://github.com/obra/superpowers/blob/main/CLAUDE.md)
 - [rOpenSci's policy on the use of AI on software peer review](https://ropensci.org/blog/2026/02/26/ropensci-ai-policy/)
+- [Linux Foundation Report: Open Source and the Future of AI](https://www.linuxfoundation.org/research/ai-exec-forum-2026)
 
 ## Acknowledgements
 
