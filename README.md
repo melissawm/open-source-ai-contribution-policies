@@ -82,6 +82,7 @@ A list of policies by different open source projects about how to engage with AI
 - [Apache PouchDB](https://pouchdb.com): [Contribution Guidelines](https://github.com/apache/pouchdb/blob/master/CONTRIBUTING.md#artificial-intelligence-and-large-language-models-contributions-policy)
 - [Asahi Linux](https://asahilinux.org): [Generative AI](https://asahilinux.org/docs/project/policies/slop/)
 - [CapyPDF](https://github.com/jpakkane/capypdf): [AI Policy](https://github.com/jpakkane/capypdf/?tab=readme-ov-file#ai-policy)
+- [Cataclysm: Dark Days Ahead](https://github.com/CleverRaven/Cataclysm-DDA/blob/master/CONTRIBUTING.md#licensing-and-authorship)
 - [CC Open Source](https://opensource.creativecommons.org/): [Contribution Guidelines](https://opensource.creativecommons.org/contributing-code/)
 - [Clojure](https://clojure.org): [No Generated Code](https://clojure.org/dev/contributor_agreement#_no_generated_code)
 - [do](https://codeberg.org/cgranade/do): [License and AI Policy](https://codeberg.org/cgranade/do#license-and-ai-policy)
