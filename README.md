@@ -8,6 +8,7 @@ A list of policies by different open source projects about how to engage with AI
 
 - For a similar overview with plots and more statistics, check out this excellent article by Kate Holterhoff: [The Generative AI Policy Landscape in Open Source](https://redmonk.com/kholterhoff/2026/02/26/generative-ai-policy-landscape-in-open-source/)
 - The CHAOSS Working Group on AI Alignment also keeps a list here: https://github.com/chaoss/wg-ai-alignment/tree/main/moderation
+- A list of software that has taken steps to reject AI in its development processes: https://codeberg.org/brib/slopfree-software-index
 
 ## Policies
 ### Projects accepting AI-assisted contributions
