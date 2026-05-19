@@ -51,7 +51,6 @@ A list of policies by different open source projects about how to engage with AI
 - [NumPy](https://numpy.org): [AI Policy](https://numpy.org/devdocs/dev/ai_policy.html), [Mailing list discussion](https://mail.python.org/archives/list/numpy-discussion@python.org/thread/LAR7P3KQWHWAIKYSHTS2MY7X4HUBVA3L/)
 - [nvim-tree](https://github.com/nvim-tree/nvim-tree.lua): [AI Usage Policy: Highly Discouraged](https://github.com/nvim-tree/nvim-tree.lua?tab=contributing-ov-file#ai-usage-policy-highly-discouraged)
 - [OCaml](https://github.com/ocaml/ocaml): [Guidelines relevant to AI-assisted contributions](https://github.com/ocaml/ocaml/blob/trunk/AI.md)
-- [Open edX](https://openedx.org/): [AI Contribution Policy](https://github.com/openedx/.github/blob/master/AI_POLICY.md)
 - [OpenInfra](https://openinfra.org/): [Policy for AI Generated Content](https://openinfra.org/legal/ai-policy)
 - [Oxide](https://oxide.computer/): [Using LLMs at Oxide](https://rfd.shared.oxide.computer/rfd/0576)
 - [Pandas](https://pandas.pydata.org): [Automated contributions policy](https://pandas.pydata.org/docs/dev/development/contributing.html#automated-contributions-policy)
@@ -60,6 +59,7 @@ A list of policies by different open source projects about how to engage with AI
 - [Polars](https://pola.rs/): [AI Usage Policy](https://github.com/pola-rs/polars/blob/8425c750b9c5d28c79428998fda2320d076d4178/AI_POLICY.md)
 - [Processing/p5.js](https://processing.org/): [AI Usage Policy](https://github.com/processing/processing4/blob/main/AI_USAGE_POLICY.md)
 - [PyVista](https://pyvista.org): [Generative AI](https://github.com/pyvista/pyvista/blob/main/CONTRIBUTING.rst#generative-ai)
+- [qutip](https://qutip.org/): [AI Tools Usage Policy](https://github.com/qutip/qutip/blob/master/CONTRIBUTING.md#ai-tools-usage-policy)
 - [scikit-learn](https://scikit-learn.org): [Automated Contributions Policy](https://scikit-learn.org/dev/developers/contributing.html#automated-contributions-policy)
 - [SciPy](https://scipy.org): [AI Policy](https://scipy.github.io/devdocs/dev/conduct/ai_policy.html)
 - [SymPy](https://www.sympy.org): [AI Generated Code and Communication Policy](https://docs.sympy.org/dev/contributing/ai-generated-code-policy.html)
@@ -72,10 +72,12 @@ A list of policies by different open source projects about how to engage with AI
 ### Projects severely restricting AI contributions
 
 - [attrs](https://www.attrs.org): [Generative AI / LLM Policy](https://github.com/python-attrs/attrs/blob/main/.github%2FAI_POLICY.md)
+- [cilium](https://cilium.io/): [Cilium Generative AI Policy](https://github.com/cilium/community/blob/main/AI-POLICY.md)
 - [GNOME Extensions](https://gjs.guide/extensions/development/creating.html): [Review Guidelines](https://gjs.guide/extensions/review-guidelines/review-guidelines.html#extensions-must-not-be-ai-generated)
 - [MDAnalysis](https://www.mdanalysis.org/): [MDAnalysis AI-generated contributions policy](https://github.com/MDAnalysis/mdanalysis/blob/develop/AI_POLICY.md)
 - [Molecular Nodes](https://bradyajohnston.github.io/MolecularNodes/): [MolecularNodes AI-generated contributions policy](https://github.com/BradyAJohnston/MolecularNodes/blob/main/AI_POLICY.md)
 - [NetBSD](https://www.netbsd.org/): [NetBSD Commit Guidelines](https://www.netbsd.org/developers/commit-guidelines.html) require explicit core approval for every contribution
+- [Open edX](https://openedx.org/): [AI Contribution Policy](https://github.com/openedx/.github/blob/master/AI_POLICY.md)
 - [(German) Wikipedia](https://de.wikipedia.org): [Künstliche Intelligenz](https://de.wikipedia.org/wiki/Wikipedia:K%C3%BCnstliche_Intelligenz)
 
 ### Projects rejecting AI contributions
