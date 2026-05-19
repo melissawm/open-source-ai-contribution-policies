@@ -26,6 +26,7 @@ A list of policies by different open source projects about how to engage with AI
 - [curl](https://curl.se/): [On AI Use in CURL](https://curl.se/dev/contribute.html#on-ai-use-in-curl)
 - [DataJourneyHQ](https://datajourneyhq.com/) : [AI aware checklist](https://github.com/DataJourneyHQ/DataJourney/wiki/Contribution-Guidelines-(AI%E2%80%90Aware))
 - [Django](https://www.djangoproject.com/): [Security Policy > AI-Assisted Reports](https://docs.djangoproject.com/en/dev/internals/security/#ai-assisted-reports), [PR template](https://github.com/django/django/blob/main/.github/pull_request_template.md)
+- [dlt](https://dlthub.com/): [Blog post (No policy; proactively encourages AI usage)](https://blog.probabl.ai/how-you-can-embrace-ai-in-your-open-source-projects-contribution-cycle-insights-from-dlt)
 - [Drupal](https://www.drupal.org): [Policy on the use of AI when contributing to Drupal](https://www.drupal.org/docs/develop/issues/issue-procedures-and-etiquette/policy-on-the-use-of-ai-when-contributing-to-drupal)
 - [EasyBuild](https://easybuild.io/): [EasyBuild AI Policy](https://docs.easybuild.io/policies/ai/)
 - [FastAPI](https://fastapi.tiangolo.com): [Automated Code and AI](https://fastapi.tiangolo.com/contributing/#automated-code-and-ai)
