@@ -33,7 +33,6 @@ A list of policies by different open source projects about how to engage with AI
 - [FastAPI](https://fastapi.tiangolo.com): [Automated Code and AI](https://fastapi.tiangolo.com/contributing/#automated-code-and-ai)
 - [Firefox](https://github.com/mozilla-firefox/firefox): [Firefox AI Coding Policy](https://firefox-source-docs.mozilla.org/contributing/ai-coding.html)
 - [Flutter](https://flutter.dev/): [AI contribution guidelines](https://github.com/flutter/flutter/blob/master/docs/contributing/Tree-hygiene.md#ai-contribution-guidelines)
-- [GDAL](https://gdal.org/): [AI/LLM tool policy](https://gdal.org/en/stable/community/ai_tool_policy.html)
 - [Ghostty](https://ghostty.org/): [AI Usage Policy](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)
 - [Gitea](https://gitea.com/): [AI Contribution Policy](https://github.com/go-gitea/gitea/blob/main/CONTRIBUTING.md#ai-contribution-policy)
 - [goose](https://github.com/block/goose): [How to Use AI with goose](https://github.com/block/goose/blob/main/HOWTOAI.md), [AGENTS.md file](https://github.com/block/goose/blob/main/AGENTS.md), [copilot-instructions.md file](https://github.com/block/goose/blob/main/.github/copilot-instructions.md)
@@ -80,8 +79,8 @@ A list of policies by different open source projects about how to engage with AI
 
 ### Projects severely restricting AI contributions
 
-- [attrs](https://www.attrs.org): [Generative AI / LLM Policy](https://github.com/python-attrs/attrs/blob/main/.github%2FAI_POLICY.md)
 - [cilium](https://cilium.io/): [Cilium Generative AI Policy](https://github.com/cilium/community/blob/main/AI-POLICY.md)
+- [GDAL](https://gdal.org/): [AI/LLM tool policy](https://gdal.org/en/stable/community/ai_tool_policy.html)
 - [GNOME Extensions](https://gjs.guide/extensions/development/creating.html): [Review Guidelines](https://gjs.guide/extensions/review-guidelines/review-guidelines.html#extensions-must-not-be-ai-generated)
 - [MDAnalysis](https://www.mdanalysis.org/): [MDAnalysis AI-generated contributions policy](https://github.com/MDAnalysis/mdanalysis/blob/develop/AI_POLICY.md)
 - [Molecular Nodes](https://bradyajohnston.github.io/MolecularNodes/): [MolecularNodes AI-generated contributions policy](https://github.com/BradyAJohnston/MolecularNodes/blob/main/AI_POLICY.md)
