@@ -18,6 +18,7 @@ A list of policies by different open source projects about how to engage with AI
 - [Apache Kvrocks](https://kvrocks.apache.org/): [Guidelines for AI-assisted Contributions](https://kvrocks.apache.org/community/contributing/#guidelines-for-ai-assisted-contributions)
 - [Apache® Software Foundation (ASF)](https://www.apache.org/): [ASF Generative Tooling Guidance](https://www.apache.org/legal/generative-tooling.html)
 - [Arrow](https://arrow.apache.org): [AI-generated code](https://arrow.apache.org/docs/dev/developers/overview.html#ai-generated-code)
+- [attrs](https://github.com/python-attrs/attrs): [Generative AI/LLM Policy](https://github.com/python-attrs/attrs/blob/main/.github/AI_POLICY.md)
 - [CCExtractor](https://ccextractor.org/): [Using AI to generate PRs before and during GSoC](https://ccextractor.org/public/gsoc/ai_policy/)
 - [CloudNativePG](https://cloudnative-pg.io/): [AI Policy](https://github.com/cloudnative-pg/governance/blob/main/AI_POLICY.md)
 - [conda](https://github.com/conda/conda): [Generative AI policy](https://docs.conda.io/projects/conda/en/latest/dev-guide/contributing.html#generative-ai)
@@ -56,24 +57,30 @@ A list of policies by different open source projects about how to engage with AI
 - [Oxide](https://oxide.computer/): [Using LLMs at Oxide](https://rfd.shared.oxide.computer/rfd/0576)
 - [Pandas](https://pandas.pydata.org): [Automated contributions policy](https://pandas.pydata.org/docs/dev/development/contributing.html#automated-contributions-policy)
 - [pgwatch](https://pgwat.ch/): [ARTIFICIAL INTELLIGENCE & AUTOMATION POLICY (V1.0)](https://github.com/cybertec-postgresql/pgwatch/blob/master/AI_POLICY.md)
+- [pip](https://github.com/pypa/pip): [Generative AI/LLM Policy](https://github.com/pypa/pip/blob/main/AI_POLICY.md)
 - [pip-tools](https://pip-tools.readthedocs.io): [LLM Generated Contributions](https://pip-tools.readthedocs.io/en/latest/contributing/#project-contribution-guidelines)
 - [Polars](https://pola.rs/): [AI Usage Policy](https://github.com/pola-rs/polars/blob/8425c750b9c5d28c79428998fda2320d076d4178/AI_POLICY.md)
 - [Processing/p5.js](https://processing.org/): [AI Usage Policy](https://github.com/processing/processing4/blob/main/AI_USAGE_POLICY.md)
+- [PyTorch](https://pytorch.org/): [AI-Assisted Development](https://github.com/pytorch/pytorch/blob/main/CONTRIBUTING.md#ai-assisted-development)
 - [PyVista](https://pyvista.org): [Generative AI](https://github.com/pyvista/pyvista/blob/main/CONTRIBUTING.rst#generative-ai)
 - [qutip](https://qutip.org/): [AI Tools Usage Policy](https://github.com/qutip/qutip/blob/master/CONTRIBUTING.md#ai-tools-usage-policy)
+- [ruff](https://github.com/astral-sh/ruff): [AI Policy](https://github.com/astral-sh/.github/blob/main/AI_POLICY.md)
 - [scikit-learn](https://scikit-learn.org): [Automated Contributions Policy](https://scikit-learn.org/dev/developers/contributing.html#automated-contributions-policy)
 - [SciPy](https://scipy.org): [AI Policy](https://scipy.github.io/devdocs/dev/conduct/ai_policy.html)
 - [SymPy](https://www.sympy.org): [AI Generated Code and Communication Policy](https://docs.sympy.org/dev/contributing/ai-generated-code-policy.html)
+- [STAC](https://stacspec.org/): [AI/LLM tool policy](https://github.com/stac-utils/stac-utils.github.io/blob/main/docs/ai-contribution-policy.md)
+- [ty](https://github.com/astral-sh/ty): [AI Policy](https://github.com/astral-sh/.github/blob/main/AI_POLICY.md)
 - [typescript-eslint](https://typescript-eslint.io/): [AI Contribution Policy](https://typescript-eslint.io/contributing/ai-policy/)
 - [University of Alaska Anchorage](https://github.com/uaanchorage): [GSoC/Acceptable-and-Ethical-AI-Use-Policy.md](https://github.com/uaanchorage/GSoC/blob/main/Acceptable-and-Ethical-AI-Use-Policy.md)
+- [uv](https://github.com/astral-sh/uv): [AI Policy](https://github.com/astral-sh/.github/blob/main/AI_POLICY.md)
 - [Wagtail](https://wagtail.org/): [Use of generative AI](https://docs.wagtail.org/en/latest/contributing/general_guidelines.html#general-coding-guidelines)
 - [WP1](https://wp1.openzim.org/): [Usage of LLMs/AI coding assistants](https://github.com/openzim/wp1/blob/main/CONTRIBUTING.md#usage-of-llmsai-coding-assistants)
 - [Zulip](https://zulip.com/): [AI use policy and guidelines](https://github.com/zulip/zulip/blob/main/CONTRIBUTING.md#ai-use-policy-and-guidelines)
 
 ### Projects severely restricting AI contributions
 
-- [attrs](https://www.attrs.org): [Generative AI / LLM Policy](https://github.com/python-attrs/attrs/blob/main/.github%2FAI_POLICY.md)
 - [cilium](https://cilium.io/): [Cilium Generative AI Policy](https://github.com/cilium/community/blob/main/AI-POLICY.md)
+- [GDAL](https://gdal.org/): [AI/LLM tool policy](https://gdal.org/en/stable/community/ai_tool_policy.html)
 - [GNOME Extensions](https://gjs.guide/extensions/development/creating.html): [Review Guidelines](https://gjs.guide/extensions/review-guidelines/review-guidelines.html#extensions-must-not-be-ai-generated)
 - [MDAnalysis](https://www.mdanalysis.org/): [MDAnalysis AI-generated contributions policy](https://github.com/MDAnalysis/mdanalysis/blob/develop/AI_POLICY.md)
 - [Molecular Nodes](https://bradyajohnston.github.io/MolecularNodes/): [MolecularNodes AI-generated contributions policy](https://github.com/BradyAJohnston/MolecularNodes/blob/main/AI_POLICY.md)
@@ -136,6 +143,7 @@ A list of policies by different open source projects about how to engage with AI
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs): [How do we deal with AI-generated issues? #410741](https://github.com/NixOS/nixpkgs/issues/410741)
 - [Scientific Python](https://scientific-python.org): [Blog post: Community Considerations Around AI Contributions](https://blog.scientific-python.org/scientific-python/community-considerations-around-ai/)
 - [scikit-image](https://scikit-image.org/): [PR#7982](https://github.com/scikit-image/scikit-image/pull/7982)
+- [TorchGeo](https://torchgeo.org/): [AI Policy](https://github.com/torchgeo/governance/pull/16)
 - [QGIS](https://github.com/qgis/QGIS-Enhancement-Proposals/pull/363)
 - [Rust](https://rust-lang.org): [Policy proposal: No low-effort contributions](https://github.com/rust-lang/leadership-council/issues/273)
 
@@ -159,6 +167,7 @@ A list of policies by different open source projects about how to engage with AI
 - [Superpowers CLAUDE.md file](https://github.com/obra/superpowers/blob/main/CLAUDE.md)
 - [rOpenSci's policy on the use of AI on software peer review](https://ropensci.org/blog/2026/02/26/ropensci-ai-policy/)
 - [Linux Foundation Report: Open Source and the Future of AI](https://www.linuxfoundation.org/research/ai-exec-forum-2026)
+- [Responsible AI Guide](https://responsibleai.guide/)
 
 ## Acknowledgements
 
