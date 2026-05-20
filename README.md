@@ -168,6 +168,7 @@ A list of policies by different open source projects about how to engage with AI
 - [rOpenSci's policy on the use of AI on software peer review](https://ropensci.org/blog/2026/02/26/ropensci-ai-policy/)
 - [Linux Foundation Report: Open Source and the Future of AI](https://www.linuxfoundation.org/research/ai-exec-forum-2026)
 - [Responsible AI Guide](https://responsibleai.guide/)
+- [Let's talk about AI slop](https://archestra.ai/blog/only-responsible-ai)
 
 ## Acknowledgements
 
