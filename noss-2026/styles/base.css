@@ -1,0 +1,7 @@
+.slidev-layout h1 {
+  line-height: 3rem;
+}
+
+div.bg-main.slidev-layout.cover.text-center div.my-auto p {
+  font-size: 1.5rem;
+}
