@@ -74,11 +74,12 @@ image: ./images/qc.gif
 </div>
 
 ---
-layout: image-center
-image: ./images/scott.png
----
 
 # O caso da Matplotlib
+
+<div class="flex justify-center">
+  <img src="./images/scott.png" width="900px" />
+</div>
 
 ---
 
