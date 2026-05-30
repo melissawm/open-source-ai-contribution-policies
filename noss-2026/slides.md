@@ -168,7 +168,7 @@ _"We are paying you to solve the hard problems that we cannot just give to an LL
   <img src="./images/fengetal.png" width="900px" />
 </div>
 
-https://arxiv.org/html/2508.04921v2
+_Charting Uncertain Waters: A Socio-Technical Roadmap for Sustaining Open Source Communities in the Age of GenAI_, 2026 - https://arxiv.org/html/2508.04921v2
 
 ---
 
