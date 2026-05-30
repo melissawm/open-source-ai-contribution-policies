@@ -169,6 +169,14 @@ _"We are paying you to solve the hard problems that we cannot just give to an LL
 https://arxiv.org/html/2508.04921v2
 
 ---
+
+# GitHub?
+
+- Limitar PRs de um mesmo autor
+- Permissões granulares para submissão de contribuições
+- Detecção de conteúdo gerado por IA?
+
+---
 layout: center
 class: text-center
 ---
