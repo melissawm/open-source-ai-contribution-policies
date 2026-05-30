@@ -112,17 +112,3 @@ Project | Policy link | AI? | Disclosure required | Copyright statement | Human 
 [WP1](https://wp1.openzim.org/) | [Usage of LLMs/AI coding assistants](https://github.com/openzim/wp1/blob/main/CONTRIBUTING.md#usage-of-llmsai-coding-assistants) | Yes | No | No | Yes |
 [Zig](https://ziglang.org) | [Strict No LLM / No AI Policy](https://ziglang.org/code-of-conduct/#strict-no-llm-no-ai-policy) | No | - | - | - | [Contributor Poker and Zig's AI Ban - rationale for ban](https://kristoff.it/blog/contributor-poker-and-ai/)
 [Zulip](https://zulip.com/) | [AI use policy and guidelines](https://github.com/zulip/zulip/blob/main/CONTRIBUTING.md#ai-use-policy-and-guidelines) | Yes | No | Yes | Yes |
-
-## Ongoing discussions
-
-- [Agda](https://wiki.portal.chalmers.se/agda/pmwiki.php): [Blanket ban on LLM-generated contributions#8456](https://github.com/agda/agda/pull/8456)
-- [Blender](https://www.blender.org/): [AI Contibutions Policy](https://devtalk.blender.org/t/ai-contributions-policy/44202)
-- [Fedora Council Policy Proposal: Policy on AI-Assisted Contributions](https://communityblog.fedoraproject.org/council-policy-proposal-policy-on-ai-assisted-contributions/)
-- [FreeBSD](https://www.freebsd.org/): [Policy on generative AI created code and documentation](https://www.freebsd.org/status/report-2025-04-2025-06/core/)
-- [GCC](https://gcc.gnu.org/): [Working Group for GCC AI Policy](https://gcc.gnu.org/wiki/working-group-ai-policy)
-- [Inkscape - Policy Discussion: Generative AI](https://gitlab.com/inkscape/inkscape-board/-/work_items/5)
-- [Jupyter](https://jupyter.org/): [AI-assisted code policy: "Literature Review"](https://github.com/jupyter/governance/issues/326)
-- [musl-libc](https://musl.libc.org/): [Tentative policy](https://www.openwall.com/lists/musl/2024/10/19/3)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs): [How do we deal with AI-generated issues? #410741](https://github.com/NixOS/nixpkgs/issues/410741)
-- [TorchGeo](https://torchgeo.org/): [AI Policy](https://github.com/torchgeo/governance/pull/16)
-- [Rust](https://rust-lang.org): [Policy proposal: No low-effort contributions](https://github.com/rust-lang/leadership-council/issues/273)

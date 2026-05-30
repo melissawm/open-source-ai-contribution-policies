@@ -108,25 +108,18 @@ Regras/<i>policies</i>
 
 # Regras
 
-- 124 projetos
-- Accepting, rejecting, restricting: most require a human in the loop
-- You are accountable for all changes you submit, regardless of the tools you use.
-- Concerns are more about quality than origin
-- Qualifying restrictions (i.e. no “substantial” LLM contributions, no LLM for communications)
-- No clear path on attribution (Co-authored-by, Assisted-by, Generated-by)
-- The Developer Certificate of Origin (DCO) is emerging as the primary legal mechanism. 
-- Others are doing similar work (CHAOSS Wg and RedMonk article) - paste in chat: https://redmonk.com/kholterhoff/2026/02/26/generative-ai-policy-landscape-in-open-source/
-- RedMonk article: 86 organizations surveyed
-    - Permissive (48)
-    - Ban (any type) (20)
-    - Undecided (13)
-    - No Policy / Advocacy (5)
+- 113 projetos; 38 rejeitam uso de IA.
+- Quase todos exigem intervenção humana (contribuições totalmente automatizadas são proibidas)
+- Não importa a ferramenta usada, você é responsável
+- A preocupação é mais com qualidade do que com a origem da contribuição
+- Restrições qualificadoras (ou seja, sem contribuições substanciais de LLM, sem LLM para comunicação, etc.)
+- Não há consenso sobre atribuição (Co-authored-by, Assisted-by, Generated-by)
+- O [Certificado de Origem do Desenvolvedor (DCO)](https://en.wikipedia.org/wiki/Developer_Certificate_of_Origin) está emergindo como um mecanismo legal para copyright
 
----
+## Outras listas
 
-# Produtividade
-
-"We are paying you to solve the hard problems that we cannot just give to an LLM"
+- CHAOSS Working Group on AI Alignment
+- Artigo da RedMonk: https://redmonk.com/kholterhoff/2026/02/26/generative-ai-policy-landscape-in-open-source/
 
 ---
 
@@ -135,6 +128,16 @@ Regras/<i>policies</i>
 - Qual é o objetivo de _good first issues_?
 - Se resolver com a IA fosse o objetivo, os mantenedores poderiam estar fazendo isso sozinhos.
 - Sustentabilidade: onboarding ainda é necessário.
+
+---
+
+# Produtividade e Contributor Experience
+
+_"We are paying you to solve the hard problems that we cannot just give to an LLM"_
+
+- Qual é o nosso papel como mantenedores?
+- Uso extrativo das ferramentas de IA é um problema
+- Como ajudar mantenedores?
 
 ---
 
@@ -171,6 +174,6 @@ class: text-center
 
 # Obrigada!
 
-[Documentation](https://sli.dev) · [GitHub](https://github.com/slidevjs/slidev) · [Showcases](https://sli.dev/resources/showcases)
+melissawm@gmail.com | pynews.com.br/@melissawm | github.com/melissawm
 
 <PoweredBySlidev mt-10 />
