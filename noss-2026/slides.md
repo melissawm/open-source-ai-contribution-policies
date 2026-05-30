@@ -101,6 +101,8 @@ Regras/<i>policies</i>
 
 # Regras
 
+[github.com/melissawm/open-source-ai-contribution-policies](https://github.com/melissawm/open-source-ai-contribution-policies)
+
 <div class="flex justify-center">
   <img src="./images/myrepo.png" width="600px" />
 </div>
