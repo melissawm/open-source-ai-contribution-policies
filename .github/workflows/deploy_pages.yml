@@ -28,16 +28,18 @@ jobs:
 
       - name: Install dependencies
         run: nci
+        working-directory: noss-2026
 
       - name: Build
         run: nr build --base /${{github.event.repository.name}}/
+        working-directory: noss-2026
 
       - name: Setup Pages
         uses: actions/configure-pages@45bfe0192ca1faeb007ade9deae92b16b8254a0d  # v6.0.0
 
       - uses: actions/upload-pages-artifact@fc324d3547104276b827a68afc52ff2a11cc49c9  # v5.0.0
         with:
-          path: dist
+          path: noss-2026/dist
 
   deploy:
     permissions:
