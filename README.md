@@ -168,3 +168,7 @@ Project | Policy link | AI? | Disclosure required | Copyright statement | Human 
 ## Acknowledgements
 
 Many thanks to multiple contributors who shared links and contributed in private, on [Mastodon](https://pynews.com.br/@melissawm/116097821572556756) or LinkedIn (let me know if you want attribution :smile:)
+
+## Talks
+
+- [Open source vs. IA: Um panorama das políticas de engajamento atuais](./noss-2026/dist/)

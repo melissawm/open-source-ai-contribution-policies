@@ -1,0 +1,4 @@
+allowBuilds:
+  esbuild: false
+  vue-demi: false
+shamefullyHoist: true
