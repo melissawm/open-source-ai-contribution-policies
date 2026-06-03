@@ -48,7 +48,7 @@ Project | Policy link | AI? | Disclosure required | Copyright statement | Human 
 [Elementary OS](https://elementary.io/) | [Generative AI Policy](https://docs.elementary.io/contributor-guide/development/generative-ai-policy) | No | - | - | - | - |
 [FastAPI](https://fastapi.tiangolo.com) | [Automated Code and AI](https://tiangolo.com/open-source/contributing/#automated-code-and-ai) | Yes | No | No | Yes | "If the human effort put in a PR, e.g. writing LLM prompts, is less than the effort we would need to put to review it, please don't submit the PR."
 [Firefox](https://github.com/mozilla-firefox/firefox) | [Firefox AI Coding Policy](https://firefox-source-docs.mozilla.org/contributing/ai-coding.html) | Yes | No | No | Yes |
-[Flutter](https://flutter.dev/) | [AI contribution guidelines](https://github.com/flutter/flutter/blob/master/docs/contributing/Tree-hygiene.md#ai-contribution-guidelines) | Yes | No | No | Yes | 
+[Flutter](https://flutter.dev/) | [AI contribution guidelines](https://github.com/flutter/flutter/blob/master/docs/contributing/Tree-hygiene.md#ai-contribution-guidelines) | Yes | No | No | Yes |
 [Forgejo](https://forgejo.org/) | [AI Agreement](https://codeberg.org/forgejo/governance/src/branch/main/AIAgreement.md) | No | - | - | - | - |
 [GDAL](https://gdal.org/) | [AI/LLM tool policy](https://gdal.org/en/stable/community/ai_tool_policy.html) | Yes | Yes | Yes | Yes |
 [Gedit](https://gedit-text-editor.org/) | [Gedit Development Guidelines - No Large Language Models AI tools](https://gitlab.gnome.org/World/gedit/gedit/-/blob/master/docs/guidelines/no-llm-tools.md) | No | - | - | - | - |
@@ -124,6 +124,7 @@ Project | Policy link | AI? | Disclosure required | Copyright statement | Human 
 [Wagtail](https://wagtail.org/) | [Use of generative AI](https://docs.wagtail.org/en/latest/contributing/general_guidelines.html#general-coding-guidelines) | Yes | Yes | No | Yes |
 [Wikipedia](https://wikipedia.org) | [Artificial Intelligence](https://en.wikipedia.org/wiki/Wikipedia:Artificial_intelligence) | No* | - | - | - | Allows a few, very specific uses such as translation assistance.
 [WP1](https://wp1.openzim.org/) | [Usage of LLMs/AI coding assistants](https://github.com/openzim/wp1/blob/main/CONTRIBUTING.md#usage-of-llmsai-coding-assistants) | Yes | No | No | Yes |
+[Xarray](https://github.com/pydata/xarray) | [AI Usage Policy](https://github.com/pydata/xarray/blob/main/doc/contribute/ai-policy.md) | Yes | No | No | Yes | [Xarray's CLAUDE.md file](https://github.com/pydata/xarray/blob/main/CLAUDE.md) |
 [Zig](https://ziglang.org) | [Strict No LLM / No AI Policy](https://ziglang.org/code-of-conduct/#strict-no-llm-no-ai-policy) | No | - | - | - | [Contributor Poker and Zig's AI Ban - rationale for ban](https://kristoff.it/blog/contributor-poker-and-ai/)
 [Zulip](https://zulip.com/) | [AI use policy and guidelines](https://github.com/zulip/zulip/blob/main/CONTRIBUTING.md#ai-use-policy-and-guidelines) | Yes | No | Yes | Yes |
 
@@ -144,7 +145,6 @@ Project | Policy link | AI? | Disclosure required | Copyright statement | Human 
 ## Other references
 
 - [Linux Foundation's Guidance Regarding Use of Generative AI Tools for Open Source Software Development](https://www.linuxfoundation.org/legal/generative-ai)
-- [Xarray's CLAUDE.md file](https://github.com/pydata/xarray/blob/main/CLAUDE.md)
 - [Preparing JOSS for a generative AI future: From code to human creativity and design](https://blog.joss.theoj.org/2026/01/preparing-joss-for-a-generative-ai-future)
 - [Navigating LLMs in Open Source: pyOpenSci's New Peer Review Policy](https://www.pyopensci.org/blog/generative-ai-peer-review-policy.html)
 - [scikit-learn's AGENTS.md file](https://github.com/scikit-learn/scikit-learn/blob/main/AGENTS.md)
