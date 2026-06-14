@@ -114,7 +114,7 @@ Project | Policy link | AI? | Disclosure required | Copyright statement | Human 
 [stb](https://github.com/nothings/stb) | [AI AND LLM ARE FORBIDDEN](https://github.com/nothings/stb/blob/master/CONTRIBUTING.md#ai-and-llm-are-forbidden) | No | - | - | - |
 [STAC](https://stacspec.org/) | [AI/LLM tool policy](https://github.com/stac-utils/stac-utils.github.io/blob/main/docs/ai-contribution-policy.md) | Yes | Yes | No | Yes | Use "Assisted-by:" and similar labels.
 [SymPy](https://www.sympy.org) | [AI Generated Code and Communication Policy](https://docs.sympy.org/dev/contributing/ai-generated-code-policy.html) | Yes | Yes | Yes | Yes |
-[Telegraf](https://influxdata.com/telegraf) | [AI Generated Code](https://github.com/influxdata/telegraf?tab=contributing-ov-file#ai-generated-code) | No | - | - | - | - |
+[Telegraf](https://influxdata.com/telegraf) | [AI Generated Code](https://github.com/influxdata/telegraf?tab=contributing-ov-file#ai-generated-code) | No | - | - | - | They have one [commit co-authored by Claude](https://github.com/influxdata/telegraf/commit/99a8d7d712b60e7a89143310234bfb47054f202b) from after the AI policy was added, though. |
 [ty](https://github.com/astral-sh/ty) | [AI Policy](https://github.com/astral-sh/.github/blob/main/AI_POLICY.md) | Yes | No | No | Yes |
 [typescript-eslint](https://typescript-eslint.io/) | [AI Contribution Policy](https://typescript-eslint.io/contributing/ai-policy/) | Yes | No | No | Yes |
 [Unison](https://github.com/bcpierce00/unison) | [LLM usage](https://github.com/bcpierce00/unison/blob/master/CONTRIBUTING.md#llm-usage) | No | - | - | - | - |
