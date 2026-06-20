@@ -118,6 +118,7 @@ Project | Policy link | AI? | Disclosure required | Copyright statement | Human 
 [STAC](https://stacspec.org/) | [AI/LLM tool policy](https://github.com/stac-utils/stac-utils.github.io/blob/main/docs/ai-contribution-policy.md) | Yes | Yes | No | Yes | Use "Assisted-by:" and similar labels.
 [SymPy](https://www.sympy.org) | [AI Generated Code and Communication Policy](https://docs.sympy.org/dev/contributing/ai-generated-code-policy.html) | Yes | Yes | Yes | Yes |
 [Telegraf](https://influxdata.com/telegraf) | [AI Generated Code](https://github.com/influxdata/telegraf?tab=contributing-ov-file#ai-generated-code) | No | - | - | - | - |
+[TorchGeo](https://torchgeo.org/) | [AI Policy](https://github.com/torchgeo/governance/blob/main/AI-POLICY.md) | Yes | Yes | Yes | Yes | - |
 [ty](https://github.com/astral-sh/ty) | [AI Policy](https://github.com/astral-sh/.github/blob/main/AI_POLICY.md) | Yes | No | No | Yes |
 [typescript-eslint](https://typescript-eslint.io/) | [AI Contribution Policy](https://typescript-eslint.io/contributing/ai-policy/) | Yes | No | No | Yes |
 [Unison](https://github.com/bcpierce00/unison) | [LLM usage](https://github.com/bcpierce00/unison/blob/master/CONTRIBUTING.md#llm-usage) | No | - | - | - | - |
@@ -142,7 +143,6 @@ Project | Policy link | AI? | Disclosure required | Copyright statement | Human 
 - [Jupyter](https://jupyter.org/): [AI-assisted code policy: "Literature Review"](https://github.com/jupyter/governance/issues/326)
 - [musl-libc](https://musl.libc.org/): [Tentative policy](https://www.openwall.com/lists/musl/2024/10/19/3)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs): [How do we deal with AI-generated issues? #410741](https://github.com/NixOS/nixpkgs/issues/410741)
-- [TorchGeo](https://torchgeo.org/): [AI Policy](https://github.com/torchgeo/governance/pull/16)
 - [Rust](https://rust-lang.org): [Policy proposal: No low-effort contributions](https://github.com/rust-lang/leadership-council/issues/273)
 
 ## Other references
