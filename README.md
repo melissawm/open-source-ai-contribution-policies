@@ -48,7 +48,7 @@ Project | Policy link | AI? | Disclosure required | Copyright statement | Human 
 [Elementary OS](https://elementary.io/) | [Generative AI Policy](https://docs.elementary.io/contributor-guide/development/generative-ai-policy) | No | - | - | - | - |
 [FastAPI](https://fastapi.tiangolo.com) | [Automated Code and AI](https://tiangolo.com/open-source/contributing/#automated-code-and-ai) | Yes | No | No | Yes | "If the human effort put in a PR, e.g. writing LLM prompts, is less than the effort we would need to put to review it, please don't submit the PR."
 [Firefox](https://github.com/mozilla-firefox/firefox) | [Firefox AI Coding Policy](https://firefox-source-docs.mozilla.org/contributing/ai-coding.html) | Yes | No | No | Yes |
-[Flutter](https://flutter.dev/) | [AI contribution guidelines](https://github.com/flutter/flutter/blob/master/docs/contributing/Tree-hygiene.md#ai-contribution-guidelines) | Yes | No | No | Yes | 
+[Flutter](https://flutter.dev/) | [AI contribution guidelines](https://github.com/flutter/flutter/blob/master/docs/contributing/Tree-hygiene.md#ai-contribution-guidelines) | Yes | No | No | Yes |
 [Forgejo](https://forgejo.org/) | [AI Agreement](https://codeberg.org/forgejo/governance/src/branch/main/AIAgreement.md) | No | - | - | - | - |
 [GDAL](https://gdal.org/) | [AI/LLM tool policy](https://gdal.org/en/stable/community/ai_tool_policy.html) | Yes | Yes | Yes | Yes |
 [Gedit](https://gedit-text-editor.org/) | [Gedit Development Guidelines - No Large Language Models AI tools](https://gitlab.gnome.org/World/gedit/gedit/-/blob/master/docs/guidelines/no-llm-tools.md) | No | - | - | - | - |
@@ -96,12 +96,14 @@ Project | Policy link | AI? | Disclosure required | Copyright statement | Human 
 [pip-tools](https://pip-tools.readthedocs.io) | [LLM Generated Contributions](https://pip-tools.readthedocs.io/en/latest/contributing/#project-contribution-guidelines) | Yes | No | No | Yes |
 [Polars](https://pola.rs/) | [AI Usage Policy](https://github.com/pola-rs/polars/blob/8425c750b9c5d28c79428998fda2320d076d4178/AI_POLICY.md) | Yes | Yes | No | Yes |
 [Processing/p5.js](https://processing.org/) | [AI Usage Policy](https://github.com/processing/processing4/blob/main/AI_USAGE_POLICY.md) | Yes | Yes | No | Yes | Disclose specific tools used.
+[Pytest](https://docs.pytest.org/en/stable/) | [AI/LLM-Assisted Contributions Policy](https://github.com/pytest-dev/pytest/blob/main/CONTRIBUTING.rst#aillm-assisted-contributions-policy) | Yes | No | No | Yes | Recommended use of "Co-authored-by:".
 [PyTorch](https://pytorch.org/) | [AI-Assisted Development](https://github.com/pytorch/pytorch/blob/main/CONTRIBUTING.md#ai-assisted-development) | Yes | No | No | Yes |
 [PyVista](https://pyvista.org) | [Generative AI](https://github.com/pyvista/pyvista/blob/main/CONTRIBUTING.rst#generative-ai) | Yes | No | No | Yes | Follows CPython's policy.
 [postmarketOS](https://postmarketos.org) | [AI Policy](https://docs.postmarketos.org/policies-and-processes/development/ai-policy.html) | No | - | - | - | - |
 [qutip](https://qutip.org/) | [AI Tools Usage Policy](https://github.com/qutip/qutip/blob/master/CONTRIBUTING.md#ai-tools-usage-policy) | Yes | Yes | Yes | Yes | No AI contributions to "good first issues".
 [QEMU](https://www.qemu.org) | [Use of AI-generated content](https://www.qemu.org/docs/master/devel/code-provenance.html#use-of-ai-generated-content) | No | - | - | - | - |
 [QGIS](https://qgis.org/) | [QGIS Enhancement: AI tool use policy](https://github.com/qgis/QGIS-Enhancement-Proposals/blob/master/qep-408-ai-tool-policy.md) | Yes | Yes | Yes | Yes | Use "Assisted-by:" or "Generated-by:" labels.
+[Requests](https://requests.readthedocs.io/en/latest/) | [Generative AI/LLM Policy](https://github.com/psf/requests/blob/main/.github/AI_POLICY.md) | Yes | No | Yes | Yes | No "Co-authored-by:" with AI tools.
 [ruff](https://github.com/astral-sh/ruff) | [AI Policy](https://github.com/astral-sh/.github/blob/main/AI_POLICY.md) | Yes | No | No | Yes |
 [Redox OS](https://www.redox-os.org/) | [AI Policy](https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md#ai-policy) | No | - | - | - | - |
 [SearXNG](https://docs.searxng.org) | [AI Policy](https://github.com/searxng/searxng/blob/master/AI_POLICY.rst) | Yes | Yes | No | Yes |
@@ -111,10 +113,12 @@ Project | Policy link | AI? | Disclosure required | Copyright statement | Human 
 [SciPy](https://scipy.org) | [AI Policy](https://scipy.github.io/devdocs/dev/conduct/ai_policy.html) | Yes | Yes | Yes | Yes |
 [SDL](https://libsdl.org/) | [PR Template](https://github.com/libsdl-org/SDL/blob/main/.github/PULL_REQUEST_TEMPLATE.md) | No | - | - | - | [AGENTS.md file](https://github.com/libsdl-org/SDL/blob/main/AGENTS.md)
 [Servo](https://servo.org) | [AI Contributions](https://book.servo.org/contributing/getting-started.html#ai-contributions) | No | - | - | - |
+[Sphinx](https://www.sphinx-doc.org/en/master/) | [AI Policy](https://github.com/sphinx-doc/sphinx/blob/master/doc/internals/ai-policy.rst) | Yes | Yes | Yes | Yes | - |
 [stb](https://github.com/nothings/stb) | [AI AND LLM ARE FORBIDDEN](https://github.com/nothings/stb/blob/master/CONTRIBUTING.md#ai-and-llm-are-forbidden) | No | - | - | - |
 [STAC](https://stacspec.org/) | [AI/LLM tool policy](https://github.com/stac-utils/stac-utils.github.io/blob/main/docs/ai-contribution-policy.md) | Yes | Yes | No | Yes | Use "Assisted-by:" and similar labels.
 [SymPy](https://www.sympy.org) | [AI Generated Code and Communication Policy](https://docs.sympy.org/dev/contributing/ai-generated-code-policy.html) | Yes | Yes | Yes | Yes |
 [Telegraf](https://influxdata.com/telegraf) | [AI Generated Code](https://github.com/influxdata/telegraf?tab=contributing-ov-file#ai-generated-code) | No | - | - | - | - |
+[TorchGeo](https://torchgeo.org/) | [AI Policy](https://github.com/torchgeo/governance/blob/main/AI-POLICY.md) | Yes | Yes | Yes | Yes | - |
 [ty](https://github.com/astral-sh/ty) | [AI Policy](https://github.com/astral-sh/.github/blob/main/AI_POLICY.md) | Yes | No | No | Yes |
 [typescript-eslint](https://typescript-eslint.io/) | [AI Contribution Policy](https://typescript-eslint.io/contributing/ai-policy/) | Yes | No | No | Yes |
 [Unison](https://github.com/bcpierce00/unison) | [LLM usage](https://github.com/bcpierce00/unison/blob/master/CONTRIBUTING.md#llm-usage) | No | - | - | - | - |
@@ -124,6 +128,7 @@ Project | Policy link | AI? | Disclosure required | Copyright statement | Human 
 [Wagtail](https://wagtail.org/) | [Use of generative AI](https://docs.wagtail.org/en/latest/contributing/general_guidelines.html#general-coding-guidelines) | Yes | Yes | No | Yes |
 [Wikipedia](https://wikipedia.org) | [Artificial Intelligence](https://en.wikipedia.org/wiki/Wikipedia:Artificial_intelligence) | No* | - | - | - | Allows a few, very specific uses such as translation assistance.
 [WP1](https://wp1.openzim.org/) | [Usage of LLMs/AI coding assistants](https://github.com/openzim/wp1/blob/main/CONTRIBUTING.md#usage-of-llmsai-coding-assistants) | Yes | No | No | Yes |
+[Xarray](https://github.com/pydata/xarray) | [AI Usage Policy](https://github.com/pydata/xarray/blob/main/doc/contribute/ai-policy.md) | Yes | No | No | Yes | [Xarray's CLAUDE.md file](https://github.com/pydata/xarray/blob/main/CLAUDE.md) |
 [Zig](https://ziglang.org) | [Strict No LLM / No AI Policy](https://ziglang.org/code-of-conduct/#strict-no-llm-no-ai-policy) | No | - | - | - | [Contributor Poker and Zig's AI Ban - rationale for ban](https://kristoff.it/blog/contributor-poker-and-ai/)
 [Zulip](https://zulip.com/) | [AI use policy and guidelines](https://github.com/zulip/zulip/blob/main/CONTRIBUTING.md#ai-use-policy-and-guidelines) | Yes | No | Yes | Yes |
 
@@ -138,13 +143,11 @@ Project | Policy link | AI? | Disclosure required | Copyright statement | Human 
 - [Jupyter](https://jupyter.org/): [AI-assisted code policy: "Literature Review"](https://github.com/jupyter/governance/issues/326)
 - [musl-libc](https://musl.libc.org/): [Tentative policy](https://www.openwall.com/lists/musl/2024/10/19/3)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs): [How do we deal with AI-generated issues? #410741](https://github.com/NixOS/nixpkgs/issues/410741)
-- [TorchGeo](https://torchgeo.org/): [AI Policy](https://github.com/torchgeo/governance/pull/16)
 - [Rust](https://rust-lang.org): [Policy proposal: No low-effort contributions](https://github.com/rust-lang/leadership-council/issues/273)
 
 ## Other references
 
 - [Linux Foundation's Guidance Regarding Use of Generative AI Tools for Open Source Software Development](https://www.linuxfoundation.org/legal/generative-ai)
-- [Xarray's CLAUDE.md file](https://github.com/pydata/xarray/blob/main/CLAUDE.md)
 - [Preparing JOSS for a generative AI future: From code to human creativity and design](https://blog.joss.theoj.org/2026/01/preparing-joss-for-a-generative-ai-future)
 - [Navigating LLMs in Open Source: pyOpenSci's New Peer Review Policy](https://www.pyopensci.org/blog/generative-ai-peer-review-policy.html)
 - [scikit-learn's AGENTS.md file](https://github.com/scikit-learn/scikit-learn/blob/main/AGENTS.md)
