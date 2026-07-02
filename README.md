@@ -111,7 +111,8 @@ Project | Policy link | AI? | Disclosure required | Copyright statement | Human 
 [scikit-image](https://scikit-image.org/) | [AI Policy](https://scikit-image.org/docs/dev/development/contribute.html#ai-policy) | Yes | Yes | No | Yes |
 [scikit-learn](https://scikit-learn.org) | [Automated Contributions Policy](https://scikit-learn.org/dev/developers/contributing.html#automated-contributions-policy) | Yes | Yes | No | Yes |
 [SciPy](https://scipy.org) | [AI Policy](https://scipy.github.io/devdocs/dev/conduct/ai_policy.html) | Yes | Yes | Yes | Yes |
-[SDL](https://libsdl.org/) | [PR Template](https://github.com/libsdl-org/SDL/blob/main/.github/PULL_REQUEST_TEMPLATE.md) | No | - | - | - | [AGENTS.md file](https://github.com/libsdl-org/SDL/blob/main/AGENTS.md)
+[SDL](https://libsdl.org/) | [AGENTS.md](https://github.com/libsdl-org/SDL/blob/main/AGENTS.md) | No | - | - | - | AI may be used to identify issues, but solutions must be authored by humans. [PR template](https://github.com/libsdl-org/SDL/blob/main/.github/PULL_REQUEST_TEMPLATE.md) asks contributors to confirm authorship.
+[SDL_net](https://github.com/libsdl-org/SDL_net) | [AGENTS.md](https://github.com/libsdl-org/SDL_net/blob/main/AGENTS.md) | No | - | - | - | Same policy as SDL.
 [Servo](https://servo.org) | [AI Contributions](https://book.servo.org/contributing/getting-started.html#ai-contributions) | No | - | - | - |
 [Sphinx](https://www.sphinx-doc.org/en/master/) | [AI Policy](https://github.com/sphinx-doc/sphinx/blob/master/doc/internals/ai-policy.rst) | Yes | Yes | Yes | Yes | - |
 [stb](https://github.com/nothings/stb) | [AI AND LLM ARE FORBIDDEN](https://github.com/nothings/stb/blob/master/CONTRIBUTING.md#ai-and-llm-are-forbidden) | No | - | - | - |
