@@ -160,6 +160,7 @@ Project | Policy link | AI? | Disclosure required | Copyright statement | Human 
 [SDL](https://libsdl.org/) | [PR Template](https://github.com/libsdl-org/SDL/blob/main/.github/PULL_REQUEST_TEMPLATE.md) | No | - | - | - | [AGENTS.md file](https://github.com/libsdl-org/SDL/blob/main/AGENTS.md)
 [SDL_net](https://github.com/libsdl-org/SDL_net) | [AGENTS.md](https://github.com/libsdl-org/SDL_net/blob/main/AGENTS.md) | No | - | - | - | Same policy as SDL.
 [SearXNG](https://docs.searxng.org) | [AI Policy](https://github.com/searxng/searxng/blob/master/AI_POLICY.rst) | Yes | Yes | No | Yes |
+[Sentinel](https://codeberg.org/cr1901/sentinel) | [AI guidelines](https://codeberg.org/cr1901/sentinel/src/branch/main/CONTRIBUTING.md#ai-guidelines) | No | - | - | - |
 [Servo](https://servo.org) | [AI Contributions](https://book.servo.org/contributing/getting-started.html#ai-contributions) | No | - | - | - |
 [Skarnet](https://skarnet.org/software) | [Re: \[PATCH\] Add CLAUDE.md](https://skarnet.org/lists/supervision/3354.html) | No | - | - | - | -
 [Smederee](https://smeder.ee/~jan0sch/smederee) | [Contribution guide](https://smeder.ee/~jan0sch/smederee/files/CONTRIBUTING.md) | No | - | - | - | Point in section "Patch Requirements": "A patch SHALL NOT include any contributions which are believed to include or derive from AI generated content."
@@ -175,6 +176,7 @@ Project | Policy link | AI? | Disclosure required | Copyright statement | Human 
 [Tusky](https://codeberg.org/tusky/Tusky) | [AI policy](https://codeberg.org/tusky/Tusky/src/branch/develop/CONTRIBUTING.md#ai-policy) | No | - | - | - | -
 [ty](https://github.com/astral-sh/ty) | [AI Policy](https://github.com/astral-sh/.github/blob/main/AI_POLICY.md) | Yes | No | No | Yes |
 [typescript-eslint](https://typescript-eslint.io/) | [AI Contribution Policy](https://typescript-eslint.io/contributing/ai-policy/) | Yes | No | No | Yes |
+[Unbound](https://nlnetlabs.nl/projects/unbound/about/) | [LLM Policy](https://nlnetlabs.nl/llm-policy/) | No | - | - | - | This policy covers all NLnet Labs projects such as ldns, NSD and Rotonda. LLM use permitted to generate vulnerability reports, to translate when communicating and for local assistance only.
 [Unison](https://github.com/bcpierce00/unison) | [LLM usage](https://github.com/bcpierce00/unison/blob/master/CONTRIBUTING.md#llm-usage) | No | - | - | - | - |
 [University of Alaska Anchorage](https://github.com/uaanchorage) | [GSoC/Acceptable-and-Ethical-AI-Use-Policy.md](https://github.com/uaanchorage/GSoC/blob/main/Acceptable-and-Ethical-AI-Use-Policy.md) | Yes* | No | No | Yes | "No vibe code"
 [uv](https://github.com/astral-sh/uv) | [AI Policy](https://github.com/astral-sh/.github/blob/main/AI_POLICY.md) | Yes | No | No | Yes |
@@ -203,6 +205,7 @@ Project | Policy link | AI? | Disclosure required | Copyright statement | Human 
 - [Jupyter](https://jupyter.org/): [AI-assisted code policy: "Literature Review"](https://github.com/jupyter/governance/issues/326)
 - [musl-libc](https://musl.libc.org/): [Tentative policy](https://www.openwall.com/lists/musl/2024/10/19/3)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs): [How do we deal with AI-generated issues? #410741](https://github.com/NixOS/nixpkgs/issues/410741)
+- [Perl](https://www.perl.org/): [An LLM policy](https://perl.topicbox.com/groups/perl-core/Tded84d01cb16966e-M4f2b94e0c07f9d7cb8e1e76b/an-llm-policy)
 - [Rust](https://rust-lang.org): [Policy proposal: No low-effort contributions](https://github.com/rust-lang/leadership-council/issues/273)
 
 ## Other references
