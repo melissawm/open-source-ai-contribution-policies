@@ -175,7 +175,7 @@ Project | Policy link | AI/LLMs allowed? | Disclosure required? | Policy include
 [stb](https://github.com/nothings/stb) | [AI AND LLM ARE FORBIDDEN](https://github.com/nothings/stb/blob/master/CONTRIBUTING.md#ai-and-llm-are-forbidden) | No | - | - | - |
 [SymPy](https://www.sympy.org) | [AI Generated Code and Communication Policy](https://docs.sympy.org/dev/contributing/ai-generated-code-policy.html) | Yes | Yes | Yes | Yes |
 [Teamtype](https://teamtype.github.io/teamtype) | [Generative AI/LLM policy](https://github.com/teamtype/teamtype/blob/main/CONTRIBUTING.md#generative-aillm-policy) | No | - | - | - | -
-[Telegraf](https://influxdata.com/telegraf) | [AI Generated Code](https://github.com/influxdata/telegraf?tab=contributing-ov-file#ai-generated-code) | No | - | - | - | - |
+[Telegraf](https://influxdata.com/telegraf) | [InfluxData Policy on AI-Generated Code Contributions](https://www.influxdata.com/ai-generated-code-contributions-policy/) | Yes | No* | Yes | Yes | Disclosure only required upon being asked. |
 [Tenacity](https://tenacityaudio.org) | [The Use of LLMs and AI in Contributions](https://codeberg.org/tenacityteam/tenacity/src/branch/main/CONTRIBUTING.md#the-use-of-llms-and-ai-in-contributions) | No | - | Yes | - | -
 [TorchGeo](https://torchgeo.org/) | [AI Policy](https://github.com/torchgeo/governance/blob/main/AI-POLICY.md) | Yes | Yes | Yes | Yes | - |
 [Tusky](https://codeberg.org/tusky/Tusky) | [AI policy](https://codeberg.org/tusky/Tusky/src/branch/develop/CONTRIBUTING.md#ai-policy) | No | - | - | - | -
