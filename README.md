@@ -136,6 +136,7 @@ Project | Policy link | AI/LLMs allowed? | Disclosure required? | Policy include
 [OpenJDK](https://openjdk.org/) | [OpenJDK Interim Policy on Generative AI](https://openjdk.org/legal/ai) | No | - | - | - | Interim policy.
 [OpenTTD](https://www.openttd.org) | [Use of AI](https://github.com/OpenTTD/OpenTTD/blob/master/CONTRIBUTING.md#use-of-ai) | No | - | ? | - | "Additionally, AI-generated code conflicts with this project's license (GPL v2), since you cannot truly release code for use if you didn't author it yourself."
 [Oxide](https://oxide.computer/) | [Using LLMs at Oxide](https://rfd.shared.oxide.computer/rfd/0576) | Yes | - | No | Yes | Comprehensive, extensive policy.
+[Pallets](https://palletsprojects.com/) (Flask, Jinja, etc.) | [LLM and AI Policy](https://palletsprojects.com/contributing/llm-ai) | No | - | - | - |
 [Pandas](https://pandas.pydata.org) | [Automated contributions policy](https://pandas.pydata.org/docs/dev/development/contributing.html#automated-contributions-policy) | Yes | Yes | No | Yes |
 [Pandemonium Engine](https://pandemoniumengine.org) | [Contributions: Use of AI content generators](https://github.com/Relintai/pandemonium_engine#contributions-use-of-ai-content-generators) | No | - | Yes | - | -
 [pgwatch](https://pgwat.ch/) | [ARTIFICIAL INTELLIGENCE & AUTOMATION POLICY (V1.0)](https://github.com/cybertec-postgresql/pgwatch/blob/master/AI_POLICY.md) | Yes | Yes | No | Yes | Must mention specific tools used.
