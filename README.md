@@ -66,6 +66,7 @@ Project | Policy link | AI/LLMs allowed? | Disclosure required? | Policy include
 [Endless Sky](https://endless-sky.github.io) | [On AI-generated/assisted content](https://github.com/endless-sky/endless-sky/blob/master/docs/CONTRIBUTING.md#on-ai-generatedassisted-content) | No | - | Yes | - | -
 [Evi](https://codeberg.org/evi-editor/evi) | [Using AI](https://codeberg.org/evi-editor/evi/src/branch/master/CONTRIBUTING.md#using-ai) | No | - | - | - | -
 [FastAPI](https://fastapi.tiangolo.com) | [Automated Code and AI](https://tiangolo.com/open-source/contributing/#automated-code-and-ai) | Yes | No | No | Yes | "If the human effort put in a PR, e.g. writing LLM prompts, is less than the effort we would need to put to review it, please don't submit the PR."
+[Fedora](https://fedoraproject.org/) | [AI-Assisted Contributions Policy](https://docs.fedoraproject.org/en-US/council/policy/ai-contribution-policy/) | Yes | Yes | Yes | Yes | [Fedora Council Policy Proposal: Policy on AI-Assisted Contributions](https://communityblog.fedoraproject.org/council-policy-proposal-policy-on-ai-assisted-contributions/) |
 [Fennel](https://fennel-lang.org) | [Contribution Transparency](https://git.sr.ht/~technomancy/fennel/tree/main/item/CONTRIBUTING.md#contribution-transparency) | No | - | - | - | -
 [Firefox](https://github.com/mozilla-firefox/firefox) | [Firefox AI Coding Policy](https://firefox-source-docs.mozilla.org/contributing/ai-coding.html) | Yes | No | No | Yes |
 [Flutter](https://flutter.dev/) | [AI contribution guidelines](https://github.com/flutter/flutter/blob/master/docs/contributing/Tree-hygiene.md#ai-contribution-guidelines) | Yes | No | No | Yes |
@@ -204,7 +205,7 @@ Project | Policy link | AI/LLMs allowed? | Disclosure required? | Policy include
 
 - [Agda](https://wiki.portal.chalmers.se/agda/pmwiki.php): [Blanket ban on LLM-generated contributions#8456](https://github.com/agda/agda/pull/8456)
 - [Blender](https://www.blender.org/): [AI Contibutions Policy](https://devtalk.blender.org/t/ai-contributions-policy/44202)
-- [Fedora Council Policy Proposal: Policy on AI-Assisted Contributions](https://communityblog.fedoraproject.org/council-policy-proposal-policy-on-ai-assisted-contributions/)
+- [Debian](https://www.debian.org/): [General resolution: LLM usage in Debian: First call for votes](https://lwn.net/ml/all/an-mRkddZVaNW3CT%40roeckx.be/) ([Summary of discussions on lwn.net](https://lwn.net/SubscriberLink/1087134/50d04bd7ce4699ec/))
 - [FreeBSD](https://www.freebsd.org/): [Policy on generative AI created code and documentation](https://www.freebsd.org/status/report-2025-04-2025-06/core/)
 - [GCC](https://gcc.gnu.org/): [Working Group for GCC AI Policy](https://gcc.gnu.org/wiki/working-group-ai-policy)
 - [Inkscape - Policy Discussion: Generative AI](https://gitlab.com/inkscape/inkscape-board/-/work_items/5)
