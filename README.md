@@ -65,6 +65,7 @@ Project | Policy link | AI/LLMs allowed? | Disclosure required? | Policy include
 [EmulatorKit](https://codeberg.org/EtchedPixels/EmulatorKit) | [ContributionRules](https://codeberg.org/EtchedPixels/EmulatorKit/src/branch/master/ContributionRules) | No | - | - | - | Explicit ban on Copilot; [maintainer has confirmed](https://codeberg.org/EtchedPixels/EmulatorKit/src/branch/master/ContributionRules) this applies to other LLM contributions
 [Endless Sky](https://endless-sky.github.io) | [On AI-generated/assisted content](https://github.com/endless-sky/endless-sky/blob/master/docs/CONTRIBUTING.md#on-ai-generatedassisted-content) | No | - | Yes | - | -
 [Evi](https://codeberg.org/evi-editor/evi) | [Using AI](https://codeberg.org/evi-editor/evi/src/branch/master/CONTRIBUTING.md#using-ai) | No | - | - | - | -
+[Exim](https://exim.org/) | [Contributing to Exim](https://code.exim.org/exim/exim#contributing-to-exim) | No | - | - | - | -
 [FastAPI](https://fastapi.tiangolo.com) | [Automated Code and AI](https://tiangolo.com/open-source/contributing/#automated-code-and-ai) | Yes | No | No | Yes | "If the human effort put in a PR, e.g. writing LLM prompts, is less than the effort we would need to put to review it, please don't submit the PR."
 [Fedora](https://fedoraproject.org/) | [AI-Assisted Contributions Policy](https://docs.fedoraproject.org/en-US/council/policy/ai-contribution-policy/) | Yes | Yes | Yes | Yes | [Fedora Council Policy Proposal: Policy on AI-Assisted Contributions](https://communityblog.fedoraproject.org/council-policy-proposal-policy-on-ai-assisted-contributions/) |
 [Fennel](https://fennel-lang.org) | [Contribution Transparency](https://git.sr.ht/~technomancy/fennel/tree/main/item/CONTRIBUTING.md#contribution-transparency) | No | - | - | - | -
@@ -84,6 +85,7 @@ Project | Policy link | AI/LLMs allowed? | Disclosure required? | Policy include
 [GNOME Extensions](https://gjs.guide/extensions/development/creating.html)| [Review Guidelines](https://gjs.guide/extensions/review-guidelines/review-guidelines.html#extensions-must-not-be-ai-generated) | Yes | - | - | Yes | "While it is not prohibited to use AI as a learning aid or a development tool (i.e. code completions), extension developers should be able to justify and explain the code they submit, within reason."
 [GNOME Loupe](https://welcome.gnome.org/app/Loupe/) | [Use of Generative AI](https://gitlab.gnome.org/GNOME/loupe/-/blob/main/CONTRIBUTING.md?ref_type=heads#use-of-generative-ai) | No | - | - | - |
 [GNU Binutils](https://sourceware.org/binutils/) | [LLM Generated Content](https://sourceware.org/binutils/wiki/LLM_Generated_Content) | No | - | - | - | - |
+[Godot Engine](https://godotengine.org) | [AI-assisted contributions](https://contributing.godotengine.org/en/latest/pull_requests/pull_request_guidelines.html#ai-assisted-contributions) | No | - | - | - | [Godot Foundation Announcement](https://godotengine.org/article/contribution-policy-2026/) |
 [goose](https://github.com/aaif-goose/goose) | [How to Use AI with goose](https://github.com/block/goose/blob/main/HOWTOAI.md) | Yes | No | No | Yes | [AGENTS.md file](https://github.com/aaif-goose/goose/blob/main/AGENTS.md)
 [GoToSocial](https://gotosocial.org/) | [Code of Conduct](https://codeberg.org/superseriousbusiness/gotosocial/src/branch/main/CODE_OF_CONDUCT.md) | No | - | - | - | - |
 [Gram](https://gram-editor.com) | [Strict No LLM / No AI Policy](https://codeberg.org/GramEditor/gram/src/branch/main/CODE_OF_CONDUCT.md#strict-no-llm-no-ai-policy) | No | - | - | - | Fork of the Zed editor, which has AI-generated code. However, this is explicitly a fork seeking to remove AI. The amount of AI-generated legacy code may decrease over time.
@@ -132,6 +134,7 @@ Project | Policy link | AI/LLMs allowed? | Disclosure required? | Policy include
 [NumPy](https://numpy.org) | [AI Policy](https://numpy.org/devdocs/dev/ai_policy.html) | Yes | Yes | Yes | Yes | [Mailing list discussion](https://mail.python.org/archives/list/numpy-discussion@python.org/thread/LAR7P3KQWHWAIKYSHTS2MY7X4HUBVA3L/)
 [nvim-tree](https://github.com/nvim-tree/nvim-tree.lua) | [AI Usage Policy: Highly Discouraged](https://github.com/nvim-tree/nvim-tree.lua?tab=contributing-ov-file#ai-usage-policy-highly-discouraged) | Yes* | Yes | No | Yes | "AI generated code is discouraged as this doesn't match (these) nvim-tree values.""
 [OCaml](https://github.com/ocaml/ocaml) | [Guidelines relevant to AI-assisted contributions](https://github.com/ocaml/ocaml/blob/trunk/AI.md) | Yes | Yes | Yes | Yes |
+[OkHttp](https://lysine.dev/okhttp/) | [No Generative Tools](https://github.com/lysine-dev/okhttp/blob/main/CONTRIBUTING.md#no-generative-tools) | No | - | - | - | Policy also covers other lysine.dev projects, e.g. Okio and Retrofit
 [Open edX](https://openedx.org/) | [AI Contribution Policy](https://github.com/openedx/.github/blob/master/AI_POLICY.md) | Yes* | Yes | No | Yes | Only specific tools with a "sufficient reputation for proper training" are allowed.
 [OpenInfra](https://openinfra.org/) | [Policy for AI Generated Content](https://openinfra.org/legal/ai-policy) | Yes | Yes | Yes | Yes | Required use of "Assisted-by:" or "Generated-by:". Open Source AI models recommended.
 [OpenJDK](https://openjdk.org/) | [OpenJDK Interim Policy on Generative AI](https://openjdk.org/legal/ai) | No | - | - | - | Interim policy.
@@ -181,6 +184,7 @@ Project | Policy link | AI/LLMs allowed? | Disclosure required? | Policy include
 [Tenacity](https://tenacityaudio.org) | [The Use of LLMs and AI in Contributions](https://codeberg.org/tenacityteam/tenacity/src/branch/main/CONTRIBUTING.md#the-use-of-llms-and-ai-in-contributions) | No | - | Yes | - | -
 [TorchGeo](https://torchgeo.org/) | [AI Policy](https://github.com/torchgeo/governance/blob/main/AI-POLICY.md) | Yes | Yes | Yes | Yes | - |
 [Tusky](https://codeberg.org/tusky/Tusky) | [AI policy](https://codeberg.org/tusky/Tusky/src/branch/develop/CONTRIBUTING.md#ai-policy) | No | - | - | - | -
+[Twisted](https://twisted.org/) | [AI Policy](https://docs.twisted.org/en/latest/development/ai-policy.html) | No | - | - | - | - |
 [ty](https://github.com/astral-sh/ty) | [AI Policy](https://github.com/astral-sh/.github/blob/main/AI_POLICY.md) | Yes | No | No | Yes |
 [typescript-eslint](https://typescript-eslint.io/) | [AI Contribution Policy](https://typescript-eslint.io/contributing/ai-policy/) | Yes | No | No | Yes |
 [Unbound](https://nlnetlabs.nl/projects/unbound/about/) | [LLM Policy](https://nlnetlabs.nl/llm-policy/) | No | - | - | - | This policy covers all NLnet Labs projects such as ldns, NSD and Rotonda. LLM use permitted to generate vulnerability reports, to translate when communicating and for local assistance only.
@@ -237,6 +241,7 @@ Project | Policy link | AI/LLMs allowed? | Disclosure required? | Policy include
 - [Responsible AI Guide](https://responsibleai.guide/)
 - [Let's talk about AI slop](https://archestra.ai/blog/only-responsible-ai)
 - [Scientific Python](https://scientific-python.org): [Blog post: Community Considerations Around AI Contributions](https://blog.scientific-python.org/scientific-python/community-considerations-around-ai/)
+- [Anna Liberty's LLM Statement](https://gracefulliberty.com/llms/) - Example and template of a personal statement on LLM usage in comparison to a project policy
 
 ## Acknowledgements
 
