@@ -181,6 +181,7 @@ Project | Policy link | AI/LLMs allowed? | Disclosure required? | Policy include
 [Tenacity](https://tenacityaudio.org) | [The Use of LLMs and AI in Contributions](https://codeberg.org/tenacityteam/tenacity/src/branch/main/CONTRIBUTING.md#the-use-of-llms-and-ai-in-contributions) | No | - | Yes | - | -
 [TorchGeo](https://torchgeo.org/) | [AI Policy](https://github.com/torchgeo/governance/blob/main/AI-POLICY.md) | Yes | Yes | Yes | Yes | - |
 [Tusky](https://codeberg.org/tusky/Tusky) | [AI policy](https://codeberg.org/tusky/Tusky/src/branch/develop/CONTRIBUTING.md#ai-policy) | No | - | - | - | -
+[Twisted](https://twisted.org/) | [AI Policy](https://docs.twisted.org/en/latest/development/ai-policy.html) | No | - | - | - | - |
 [ty](https://github.com/astral-sh/ty) | [AI Policy](https://github.com/astral-sh/.github/blob/main/AI_POLICY.md) | Yes | No | No | Yes |
 [typescript-eslint](https://typescript-eslint.io/) | [AI Contribution Policy](https://typescript-eslint.io/contributing/ai-policy/) | Yes | No | No | Yes |
 [Unbound](https://nlnetlabs.nl/projects/unbound/about/) | [LLM Policy](https://nlnetlabs.nl/llm-policy/) | No | - | - | - | This policy covers all NLnet Labs projects such as ldns, NSD and Rotonda. LLM use permitted to generate vulnerability reports, to translate when communicating and for local assistance only.
