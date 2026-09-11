@@ -239,6 +239,7 @@ Project | Policy link | AI/LLMs allowed? | Disclosure required? | Policy include
 - [Let's talk about AI slop](https://archestra.ai/blog/only-responsible-ai)
 - [Scientific Python](https://scientific-python.org): [Blog post: Community Considerations Around AI Contributions](https://blog.scientific-python.org/scientific-python/community-considerations-around-ai/)
 - [no-ai-marks: CI check and pre-commit hooks that fail on AI attribution and hidden Unicode watermarks in commits, PRs, branch names, and files](https://github.com/mishan/no-ai-marks)
+- [agentscan-action: GitHub action that analyzes authors' recent activity patterns to detect automation signals](https://github.com/MatteoGabriele/agentscan-action)
 
 ## Acknowledgements
 
