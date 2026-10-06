@@ -1,6 +1,15 @@
 [codespell]
 # Ref: https://github.com/codespell-project/codespell#using-a-config-file
-skip = .git,.gitignore,.gitattributes,*-lock.yaml,*.css,.codespellrc
+#
+# noss-2026/README.md and noss-2026/slides.md are Portuguese-language talk
+# content; the English dictionary mis-flags ordinary Portuguese words such as
+# "atual" (current) and "autor" (author).  noss-2026/pages/big_list.md is
+# deliberately *not* skipped -- it is the English policy table.
+# NB: the leading */ matters -- codespell matches skip patterns against the
+# traversed path (./noss-2026/...), so a bare relative path never matches.
+skip = .git,.git-meta,.gitignore,.gitattributes,*-lock.yaml,*.css,.codespellrc,*/noss-2026/README.md,*/noss-2026/slides.md
 check-hidden = true
-# ignore-regex = 
+# Never "correct" a typo inside a URL -- it silently breaks the policy links,
+# which are the bulk of this repository.
+ignore-regex = https?://\S+
 # ignore-words-list =
