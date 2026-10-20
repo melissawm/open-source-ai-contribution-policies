@@ -246,6 +246,8 @@ Project | Policy link | AI/LLMs allowed? | Disclosure required? | Policy include
 - [no-ai-marks: CI check and pre-commit hooks that fail on AI attribution and hidden Unicode watermarks in commits, PRs, branch names, and files](https://github.com/mishan/no-ai-marks)
 - [agentscan-action: GitHub action that analyzes authors' recent activity patterns to detect automation signals](https://github.com/MatteoGabriele/agentscan-action)
 - [Anna Liberty's LLM Statement](https://gracefulliberty.com/llms/) - Example and template of a personal statement on LLM usage in comparison to a project policy
+- [contribpolicy: CLI that finds a repository's AI-contribution rules (CONTRIBUTING, AGENTS.md, linked policy files, org-level policies such as Kubernetes and Tekton), quotes the line each rule came from, and lints a draft PR against them](https://github.com/pujitha24/contribpolicy)
+- [ai-contribution-check: GitHub Action that checks pull requests against a project's AI policy file (disclosure, Assisted-by and AI co-author trailers, DCO, signed commits, issue labels)](https://github.com/pujitha24/ai-contribution-check)
 
 ## Acknowledgements
 
