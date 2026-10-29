@@ -237,7 +237,7 @@ Project | Policy link | AI/LLMs allowed? | Disclosure required? | Policy include
 - [Position Statement on Generative AI in the RSE Workplace](https://github.com/Academic-Data-Science-Alliance/rse-ai-position-statement/blob/main/RSE-AI-Final_Statement.md)
 - [Exploring Solutions to Tackle Low-Quality Contributions on GitHub](https://github.com/orgs/community/discussions/185387)
 - [LibreHealth](https://gitlab.com/librehealth) GSoC participation policy: [README: The use of AI is forbidden at any point during the program](https://forums.librehealth.io/t/readme-the-use-of-ai-is-forbidden-at-any-point-during-the-program/5400)
-- [Superpowers CLAUDE.md file](https://github.com/obra/superpowers/blob/main/CLAUDE.md)
+- [Superpowers AGENTS.md file](https://github.com/obra/superpowers/blob/main/AGENTS.md)
 - [rOpenSci's policy on the use of AI on software peer review](https://ropensci.org/blog/2026/02/26/ropensci-ai-policy/)
 - [Linux Foundation Report: Open Source and the Future of AI](https://www.linuxfoundation.org/research/ai-exec-forum-2026)
 - [Responsible AI Guide](https://responsibleai.guide/)
