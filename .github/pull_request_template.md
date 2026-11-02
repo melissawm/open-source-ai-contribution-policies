@@ -1,0 +1,2 @@
+- [ ] I read each linked policy and checked every column against its text.
+- [ ] New rows are in alphabetical order.
