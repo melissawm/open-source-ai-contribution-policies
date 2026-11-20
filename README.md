@@ -185,7 +185,7 @@ Project | Policy link | AI/LLMs allowed? | Disclosure required? | Policy include
 [Teamtype](https://teamtype.github.io/teamtype) | [Generative AI/LLM policy](https://github.com/teamtype/teamtype/blob/main/CONTRIBUTING.md#generative-aillm-policy) | No | - | - | - | -
 [Telegraf](https://influxdata.com/telegraf) | [InfluxData Policy on AI-Generated Code Contributions](https://www.influxdata.com/ai-generated-code-contributions-policy/) | Yes | No* | Yes | Yes | Disclosure only required upon being asked. |
 [Tenacity](https://tenacityaudio.org) | [The Use of LLMs and AI in Contributions](https://codeberg.org/tenacityteam/tenacity/src/branch/main/CONTRIBUTING.md#the-use-of-llms-and-ai-in-contributions) | No | - | Yes | - | -
-[TorchGeo](https://torchgeo.org/) | [AI Policy](https://github.com/torchgeo/governance/blob/main/AI-POLICY.md) | Yes | Yes | Yes | Yes | - |
+[TorchGeo](https://torchgeo.org/) | [AI Policy](https://github.com/torchgeo/torchgeo/blob/main/.github/AI_POLICY.md) | No | - | - | - | - |
 [Tusky](https://codeberg.org/tusky/Tusky) | [AI policy](https://codeberg.org/tusky/Tusky/src/branch/develop/CONTRIBUTING.md#ai-policy) | No | - | - | - | -
 [Twisted](https://twisted.org/) | [AI Policy](https://docs.twisted.org/en/latest/development/ai-policy.html) | No | - | - | - | - |
 [ty](https://github.com/astral-sh/ty) | [AI Policy](https://github.com/astral-sh/.github/blob/main/AI_POLICY.md) | Yes | No | No | Yes |
